@@ -9,7 +9,7 @@ kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/71xFttfPj3L._SX1024.jp
 ---
 # As cinco fases do namoro
 ## Metadata
-* Author: [Sandro Arquejada](https://amazon.com//Sandro-Aparecido-Arquejada/e/B0GVHYQ6JY/ref=aufs_dp_fta_an_dsk)
+* Author: [Sandro Arquejada](https://amazon.com//hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hGNKUVK+28f0/FfkDOuRC7xJc3IDddYVUP7Bz8lVlOO9AAAAAGmsVpoAAAAB&reviewId=RAF4NZZA3D77X)
 * ASIN: B01AOOIE8Q
 * Reference: https://amazon.com/dp/B01AOOIE8Q
 * [Kindle link](kindle://book?action=open&asin=B01AOOIE8Q)

@@ -9,8 +9,9 @@ kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/81Qf+jKNK4L._SX1024.jp
 ---
 # Always Loved
 ## Metadata
-* Author: [Brent Lokker](https://amazon.com)
+* Author: [Brent Lokker](https://amazon.com//Brent-Lokker/e/B018F05KII/ref=aufs_dp_fta_an_dsk)
 * ASIN: B01976ZRZK
+* ISBN: 0988216426
 * Reference: https://amazon.com/dp/B01976ZRZK
 * [Kindle link](kindle://book?action=open&asin=B01976ZRZK)
 

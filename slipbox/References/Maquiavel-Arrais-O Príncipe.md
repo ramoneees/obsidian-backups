@@ -9,7 +9,7 @@ kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/81dv+zoP9AL._SX1024.jp
 ---
 # O Príncipe
 ## Metadata
-* Author: [Nicolau Maquiavel and Rafael Arrais](https://amazon.com//Paulo-Vieira/e/B076D8Y24D/ref=aufs_dp_fta_an_dsk)
+* Author: [Nicolau Maquiavel and Rafael Arrais](https://amazon.com//Niccol%C3%B2-Machiavelli/e/B000AQ4J1K/ref=aufs_dp_fta_an_dsk)
 * ASIN: B01GN1PVRQ
 * Reference: https://amazon.com/dp/B01GN1PVRQ
 * [Kindle link](kindle://book?action=open&asin=B01GN1PVRQ)

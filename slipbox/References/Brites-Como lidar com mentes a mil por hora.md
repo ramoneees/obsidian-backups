@@ -12,7 +12,7 @@ kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/81j-OwCga1L._SX1024.jp
 ---
 # Como lidar com mentes a mil por hora
 ## Metadata
-* Author: [Dr. Clay Brites](https://amazon.com//hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hMCErxD3fqLvQumnopz6FF8cXBwoqaU8%2FU%2F%2FFHM3UrDbAAAAAGnqoPoAAAAB&reviewId=R2YSFJ38ZXK7GZ)
+* Author: [Dr. Clay Brites](https://amazon.com//hz/reviews-render/report-review/ref=cm_cr_dp_d_report?csrfT=hHpiTsrmRvVwnq1uVAzBSnCoT/k7z/3UX8624DHKu8VBAAAAAGmsVmoAAAAB&reviewId=R1PVKJGEAOT3QK)
 * ASIN: B09FX9YY3M
 * Reference: https://amazon.com/dp/B09FX9YY3M
 * [Kindle link](kindle://book?action=open&asin=B09FX9YY3M)

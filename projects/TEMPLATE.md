@@ -1,19 +1,39 @@
-# Projeto — NOME
+---
+status: em-andamento
+created: {{date}}
+updated: {{date}}
+---
 
-## Status: 🟡 Em Andamento | 🔴 Bloqueado | ✅ Concluído
+# {{nome}} — Projeto
+
+## Status: 🟡 Em Andamento
 
 ## Descrição
 
 ## Objetivo
 
+## Equipe
+- 
+
 ## Próximos Passos
 - [ ] 
 - [ ] 
 
-## Done
+## Concluídas
 - [x] 
 
-## Links
+## Bloqueios
+- 
+
+## Decisões
+| Data | Decisão | Motivo |
+|------|---------|--------|
+|  |  |  |
+
+## Reuniões
 - 
 
 ## Notas
+
+## Links
+- 
