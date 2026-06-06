@@ -1,3 +1,22 @@
-/Ramon Notes/copilot
-.obsidian
-.smart-env
+# Obsidian plugin config (PC-only)
+.obsidian/
+
+# Livesync credentials (contains CouchDB password)
+.obsidian-git-livesync.json
+.livesync/
+
+# Smart environment
+.smart-env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
