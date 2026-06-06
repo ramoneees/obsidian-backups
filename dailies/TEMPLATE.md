@@ -10,6 +10,9 @@
 - Energia: 🟢🟡🔴
 - Humor: 
 
+## Atividades com Hermes
+<!-- Preenchido automaticamente pelo cron de end-of-day -->
+
 ## Notas
 ### Aprendizados
 - 

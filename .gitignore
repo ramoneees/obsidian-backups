@@ -5,6 +5,10 @@
 .obsidian-git-livesync.json
 .livesync/
 
+# Secrets & credentials
+memory/secrets.md
+*.env
+
 # Smart environment
 .smart-env/
 

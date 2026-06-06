@@ -2,14 +2,13 @@
 
 ## API Access
 
-**Token**: `tp_8c1e7a11e54241578c62c663565c3ac0`
+**Token**: ver `memory/secrets.md` → TickTick
 **Location**: `/home/ramoneees/config/mcporter.json`
 
 ### Usage
 
 ```bash
-export TICKTICK_ACCESS_TOKEN="tp_8c1e7a11e54241578c62c663565c3ac0"
-# Then use curl with Bearer auth
+# Token em memory/secrets.md ou TICKTICK_OAUTH_TOKENS env var
 curl -H "Authorization: Bearer $TICKTICK_ACCESS_TOKEN" ...
 ```
 
