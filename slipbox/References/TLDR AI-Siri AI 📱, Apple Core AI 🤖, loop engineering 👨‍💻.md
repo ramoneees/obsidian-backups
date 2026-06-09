@@ -17,7 +17,25 @@ tags: [IA, tech, newsletter]
 
 Map 200+ test cases in minutes — not weeks (Sponsor)
 
+What sets their Mapping AI apart:
+
+Maps 200+ workflows in minutes instead of weeks of manual planning.
+
+Works across web, iOS, and Android apps.
+
+Finds multi-user, cross-device, and integration flows — automatically.
+
+Continuously re-maps coverage as you ship new features.
+
+## Pontos-chave
+
+- Map 200+ test cases in minutes — not weeks (Sponsor)
+- What sets their Mapping AI apart:
+- Maps 200+ workflows in minutes instead of weeks of manual planning.
+- Works across web, iOS, and Android apps.
+- Finds multi-user, cross-device, and integration flows — automatically.
+
 ## Notas e Conexões
 
-- Ver [[References]] para índice
-- Fonte: [[TLDR-AI]]
+- Fonte: [[TLDR AI]]
+- Ver [[References]]

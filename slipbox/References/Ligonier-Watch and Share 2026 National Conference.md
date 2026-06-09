@@ -15,9 +15,27 @@ tags: [teologia, reforma, cristã]
 
 ## Resumo
 
-*(Conteúdo não pôde ser extraído automaticamente — consultar URL original.)*
+The messages from our 2026 National Conference are now available to watch and share on Ligonier.org and in the Ligonier app.
+
+Does God Control Everything? by H.B. Charles Jr.
+
+What Is My Purpose? by Ken Jones
+
+How Should I Endure Suffering? by Sinclair Ferguson
+
+How Can I Know God’s Will? by David Strain
+
+How Can I Overcome Anxiety? by Eric Bancroft
+
+## Pontos-chave
+
+- The messages from our 2026 National Conference are now available to watch and share on Ligonier.org and in the Ligonier app.
+- Does God Control Everything?
+- How Should I Endure Suffering?
+- How Can I Know God’s Will?
+- How Can I Overcome Anxiety?
 
 ## Notas e Conexões
 
-- Ver [[References]] para índice
 - Fonte: [[Ligonier]]
+- Ver [[References]]

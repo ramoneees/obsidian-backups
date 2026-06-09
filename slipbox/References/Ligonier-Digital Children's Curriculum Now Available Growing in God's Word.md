@@ -15,9 +15,27 @@ tags: [teologia, reforma, cristã]
 
 ## Resumo
 
-Digital Children’s Curriculum Now Available: Growing in God’s Word
+God calls His people to pass down the Christian faith to the next generation. As we teach the Bible to our children, we invite them into the captivating story of redemption.
+
+Now available in a digital edition, Growing in God’s Word is designed to assist you in this calling. With 52 lesson plans, this teacher’s resource helps churches, families, and schools lead elementary students through an overview of the Bible.
+
+Flexible Options for Your Classroom
+
+Whether you need the complete K–5 set or just one learning level, the digital edition of Growing in God’s Word is flexible to fit the needs of your classroom.
+
+Purchase the complete K–5 set or individual learning levels
+
+Choose the Presbyterian & Reformed Edition or the Baptist Edition
+
+## Pontos-chave
+
+- God calls His people to pass down the Christian faith to the next generation.
+- Now available in a digital edition, Growing in God’s Word is designed to assist you in this calling.
+- Flexible Options for Your Classroom
+- Whether you need the complete K–5 set or just one learning level, the digital edition of Growing in God’s Word is flexible to fit the needs of your classroom.
+- Purchase the complete K–5 set or individual learning levels
 
 ## Notas e Conexões
 
-- Ver [[References]] para índice
 - Fonte: [[Ligonier]]
+- Ver [[References]]

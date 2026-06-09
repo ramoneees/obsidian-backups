@@ -17,11 +17,27 @@ tags: [tech, estratégia, negócios]
 
 ## Resumo
 
-You have been rate-limited for making too many requests in a short time frame.
+An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity
 
-Website owner? If you think you have reached this message in error, please contact support.
+An Interview with Eric Seufert about building models for generative AI, why Meta’s foundational models are so important, and why understanding advertising leads to optimism about humanity’s future.
+
+Subscribe to Stratechery Plus for full access.
+
+With Stratechery Plus you get access to the subscriber-only Stratechery Update and Stratechery Interviews , and the Sharp Tech, Sharp China, Dithering, Greatest of All Talk, and Asianometry podcasts.
+
+Stratechery Update Substantial analysis of the news of the day delivered via three weekly emails or podcasts.
+
+Stratechery Interviews Interviews with leading public CEOs, private company founders, and discussions with fellow analysts.
+
+## Pontos-chave
+
+- An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity
+- An Interview with Eric Seufert about building models for generative AI, why Meta’s foundational models are so important, and why understanding advertising leads to optimism about humanity’s future.
+- Subscribe to Stratechery Plus for full access.
+- With Stratechery Plus you get access to the subscriber-only Stratechery Update and Stratechery Interviews , and the Sharp Tech, Sharp China, Dithering, Greatest of All Talk, and Asianometry podcasts.
+- Stratechery Update Substantial analysis of the news of the day delivered via three weekly emails or podcasts.
 
 ## Notas e Conexões
 
-- Ver [[References]] para índice
 - Fonte: [[Stratechery]]
+- Ver [[References]]

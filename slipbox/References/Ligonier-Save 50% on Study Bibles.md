@@ -15,9 +15,27 @@ tags: [teologia, reforma, cristã]
 
 ## Resumo
 
-*(Conteúdo não pôde ser extraído automaticamente — consultar URL original.)*
+The Reformation Study Bible is carefully crafted to offer an unparalleled reading, study, and discipleship experience for every age and stage of the Christian life. This week only, save 50% on a variety of editions and cover styles of this trusted resource.
+
+Reformation Study Bible Edited by Dr. R.C. Sproul, this study Bible is packed with verse-by-verse notes, theological articles, and much more to help readers understand Scripture as a whole.
+
+Condensed Edition Looking for a more portable version? The Condensed Edition features the best of this commentary in a smaller format.
+
+Student Edition The Student Edition is designed to help young Christians dig deeper into the Scriptures to find answers and direction for all of life.
+
+Spanish Edition The Spanish Edition of the Reformation Study Bible offers a carefully translated verse-by-verse commentary as well as topical explanations that emphasize the need for God’s grace.
+
+With Mother’s Day and school graduations around the corner, explore the collection and save on a gift that can help your loved ones grow in God’s Word for many years to come.
+
+## Pontos-chave
+
+- The Reformation Study Bible is carefully crafted to offer an unparalleled reading, study, and discipleship experience for every age and stage of the Christian life.
+- Reformation Study Bible Edited by Dr.
+- Condensed Edition Looking for a more portable version?
+- Student Edition The Student Edition is designed to help young Christians dig deeper into the Scriptures to find answers and direction for all of life.
+- Spanish Edition The Spanish Edition of the Reformation Study Bible offers a carefully translated verse-by-verse commentary as well as topical explanations that emphasize the need for God’s grace.
 
 ## Notas e Conexões
 
-- Ver [[References]] para índice
 - Fonte: [[Ligonier]]
+- Ver [[References]]
