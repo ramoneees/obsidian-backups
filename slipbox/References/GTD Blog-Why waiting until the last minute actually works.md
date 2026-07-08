@@ -1,32 +1,38 @@
 ---
+title: "Why waiting until the last minute actually works"
+source: "GTD Blog (David Allen)"
 date: 2026-07-03
-source: "https://gettingthingsdone.com/2026/07/in-praise-of-the-last-minute-2/"
-blog: "GTD Blog"
-tags: [GTD, produtividade, timing, decisões, pressão, minimalismo, David Allen]
+url: "https://gettingthingsdone.com/2026/07/in-praise-of-the-last-minute-2/"
+category: productivity
+tags: [gtd, productivity, last-minute, pressure, focus]
+ingested: 2026-07-08
 ---
 
-# GTD Blog - Why waiting until the last minute actually works
+# Why waiting until the last minute actually works
 
-## Resumo
+**David Allen** — "some good news: the last minute isn't always the worst time to do something."
 
-David Allen abre com uma inversão provocativa: o último minuto nem sempre é o pior momento para fazer algo. Um cliente uma vez disse a ele que *gosta* de esperar até o último minuto — torna o trabalho mais focado, mais criativo, mais inspirado pela pressão do relógio. Allen admite que concorda, e que há momentos em que isso é verdade para ele também.
+> "A client once told me he *likes* waiting until the last minute. It makes his work better. It's more focused, more creative, and more inspired, all thanks to the pressure of the ticking clock. I have to admit that I think he's right, and there are times that this is true for me as well."
 
-O exemplo usado é a mala para viagem. Allen cronometrou-se obsessivamente ao longo de milhares de viagens de negócios: precisa de exatamente 30 minutos para fazer a mala. Nem mais, nem menos. Ele faz engenharia reversa a partir do portão de embarque, conta para trás até a hora de sair de casa, e começa a arrumar a mala exatamente 30 minutos antes da partida.
+## Packing example
+> "Take packing for a trip. I have obsessively timed myself over the years, and after thousands of business trips out of town, I can safely declare I need exactly 30 minutes to pack. No less… and no more! I reverse-engineer from my gate time, back up to when I need to walk out the door of my house to comfortably get there, and start packing exactly 30 minutes before departure."
 
-A mecânica que ele descreve: com uma hora, ele usaria a hora — duvidando. Suéter ou não? Um par de sapatos sociais ou dois? Vou correr? Quão frio vai estar? Levo roupa de banho mesmo sabendo que quase nunca uso? Duas vezes mais tempo não significa mala duas vezes melhor. Talvez 3% melhor. Mas com 100% mais estresse. Não é uma boa troca.
+> "Why would a 'guru of personal productivity' like myself invite that kind of pressure? It's simple. If I gave myself an hour, then I'd use an hour – mostly second guessing. Sweater or no sweater? One pair of dress shoes or two? Will I jog? How cold will it be? Should I pack a swim suit even though I almost never touch hotel pools (but always regret not having one if I feel like it)?"
 
-Allen estende o princípio para além de packing: em negócios ou política, esperar — estrategicamente — pode ser o movimento mais inteligente. O mundo muda rápido; absorver inteligência de última hora pode ser mission-critical.
+> "Twice the time does not mean I'll end up packing twice as well. Maybe 3% better. But with 100% more stress. Not a good trade."
 
-## Pontos Principais
+## The general principle
+> "This applies beyond packing. Sometimes, in business or politics, *waiting* – strategically – is the smartest move. The world changes fast. Absorbing last minute intel can be mission critical."
 
-- Inversão: o "último minuto" não é o pior momento — pode ser o melhor, sob pressão focada
-- Regra pessoal de Allen: 30 minutos exatos para arrumar a mala, nem mais nem menos
-- Mais tempo ≠ melhor resultado. Mais tempo = mais hesitação, dúvida, second-guessing
-- Cálculo: 2x tempo → 3% melhor, com 100% mais estresse. Não compensa.
-- Princípio geral: timing preciso supera planejamento generoso quando a tarefa é bem conhecida
-- Em negócios e política, esperar estrategicamente pode ser a jogada mais inteligente (absorver intel de última hora)
-- Reframing necessário: "último minuto" não é preguiça, é *precision timing*
-- Dois requisitos para o "último minuto" funcionar a seu favor:
-  1. Saber exatamente quantos minutos seu "último minuto" precisa
-  2. Fazer ser uma escolha consciente, não algo que se culpa antes ou depois
-- Auto-ironia: Allen diz ter explorado pessoalmente os reinos de "sloth, indolence, and mild stupidity" — é por isso que conhece bem o trade-off
+> "So yes, the last minute has its place. But if you want it to work for you – not against you – you've got to reframe it. It's not slacking off. It's precision timing."
+
+The two keys:
+1. Know exactly how many minutes your "last minute" needs
+2. Make it a conscious choice, not something you beat yourself up for before or after
+
+> "(And for the record: I've spent plenty of time over the years exploring the realms of sloth, indolence, and mild stupidity. That's how I know this stuff!)"
+
+## Notas e Conexões
+- Pairs with [[GTD Blog-Why Slowing Down Makes You More Productive Speeding Up by Slowing Down]] — both counterintuitive GTD maxims
+- A useful counter to the "always give yourself more time" productivity advice
+- The 30-minutes-for-packing anecdote is a great calibration example
