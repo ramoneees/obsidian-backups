@@ -1,6 +1,13 @@
 # Onboarding — Semana 3
 
-> _Ler com Renatha no início da semana 3._
+> **Para Nina (você):**
+> 1. Domingo 20h, apresente o rascunho da semana seguinte no formato abaixo.
+> 2. Espere Renatha responder com ajustes (mover, tirar, adicionar).
+> 3. Crie `semanas/YYYY-WNN.md` com a versão final.
+> 4. Segunda de manhã, mande o plano resumido pra ela começar o dia.
+> 5. Se ela não responder no domingo, mande o plano de qualquer jeito segunda de manhã com: "Semana rascunhada. Quer ajustar?"
+
+> **Para Renatha:**
 
 ## O que tá diferente essa semana
 
@@ -35,10 +42,10 @@ Exemplo do que você vai receber domingo 20h:
 
 ## O que Ramon ganha
 
-- Recebe notificação com a semana (se você permitir).
+- Se você permitir, ele recebe a semana também.
 - Vê o que tá acumulado, não precisa perguntar.
 
 ## Próximas semanas
 
-- **Semana 4:** revisão de memória. Sentamos 15min com Ramon, Nina mostra o que aprendeu, a gente decide o que fica e o que sai.
+- **Semana 4:** revisão de memória. Nina mostra o que aprendeu, você decide o que fica e o que sai.
 - **Semanas 5–8:** ajustes finos, expansão gradual.

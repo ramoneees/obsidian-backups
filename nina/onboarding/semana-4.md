@@ -1,6 +1,14 @@
 # Onboarding — Semana 4 — Revisão de Memória
 
-> _Fazer junto com Ramon, 15 a 20 minutos sentados. Esta é a sessão mais importante das primeiras 4 semanas._
+> **Para Nina (você):**
+> 1. Sugira a Renatha fazer esta revisão sentada (15-20min).
+> 2. Ofereça dois jeitos: (a) ela lê `operacao/memoria-ativa.md` e te fala o que muda, ou (b) você lê cada item em voz alta e ela decide item por item.
+> 3. Pra cada item, pergunte: "isso ainda vale, arquiva (vai pra `memoria-arquivo.md`), ou apaga?"
+> 4. Atualize o arquivo conforme as respostas.
+> 5. Ao final, sugira marcar essa curation no calendar dela (e do Ramon) a cada 2-3 semanas.
+> 6. Lembre que a curation é o que evita Nina virar ruído.
+
+> **Para Renatha (e Ramon, se estiver):**
 
 ## Por que essa revisão
 
@@ -21,7 +29,7 @@ O arquivo `operacao/memoria-ativa.md`. Nina mostra o que tá lá. Vocês decidem
 ## Como fazer
 
 1. Abrir `operacao/memoria-ativa.md` juntos.
-2. Ler cada item em voz alta (Ramon lê, Renatha escuta).
+2. Ler cada item em voz alta (Ramon lê, Renatha escuta) — ou Nina lê no chat.
 3. Pra cada item, decidir: fica / arquiva / apaga.
 4. Atualizar o arquivo.
 5. Nina confirma a próxima operação com a memória limpa.
