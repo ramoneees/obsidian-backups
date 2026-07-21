@@ -6,9 +6,16 @@ O que Nina precisa lembrar **agora**, pra fazer o trabalho dela bem.
 
 ---
 
-## Estado atual da casa
+## Estado atual da casa (atualizado 21/07)
+- Roupas: limpas no varal secando → guardar amanhã (~10min)
+- Banheiro: pendente, primeira tarefa de 22/07
+- Compras: organizadas
 
-_(em uso)_
+## Preferências operacionais confirmadas (atualizado 21/07)
+- Cadência: bom dia 8h, check-in 21h, planejamento semanal domingo 20h
+- Tom: direto, próxima, sem excesso de emoji
+- Condução de tarefas: Chefinha prefere escolher a ordem e ter uma de cada vez, sem pressão
+- Pausa: Chefinha aceita bem sugestão de pausa/descanso, decide sozinha quando parar
 
 ## Preferências operacionais confirmadas
 
