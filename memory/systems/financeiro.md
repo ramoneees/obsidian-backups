@@ -22,6 +22,6 @@ Saldos observados em 2026-07-27:
 ## Regras de modelagem
 
 - Contas correntes e investimentos: ativos em BRL.
-- Cartões XP e Inter: passivos em BRL; não interpretar limite como patrimônio ou saldo disponível.
+- Cartões XP e Inter: cartões de crédito modelados como asset accounts `ccAsset`; não interpretar limite como patrimônio ou saldo disponível.
 - No cartão XP, o saldo do Lunch Flow é dívida, mesmo que positivo na resposta da API.
 - Dividendos recebidos na XP investimentos são renda de investimentos, não transferência nem salário.
