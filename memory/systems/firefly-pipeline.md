@@ -82,3 +82,9 @@ default fallback and shouldn't silently absorb misclassifications.
   (` ```json ... ``` `); the categoriser strips the fence before parsing.
 - `ccAsset` accounts in Firefly need `credit_card_type` and
   `monthly_payment_date` (use `monthlyFull` and the next month's 1st).
+
+## Backup (2026-07-27)
+
+- `origin` agora aponta para o GitHub (renomeado de `github`).
+- O Gitea (`git.ramoneees.com`) está com token expirado e não recebe mais pushes. Decisão de Ramon: manter apenas o GitHub como backup por enquanto.
+- Cron `ce7951798ae2` (vault auto-push) continua a cada 30 min e agora empurra para o GitHub via `origin`.
