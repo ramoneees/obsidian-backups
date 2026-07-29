@@ -138,15 +138,17 @@ Em horário Lisboa (DST-aware): sync ~02:00, categoriser ~02:15.
 
 ## Próximos passos (já definidos, mas ainda não executados)
 
-- [ ] Pré-popular `~/.hermes/profiles/crisp/memories/MEMORY.md` e `USER.md` com o consolidado
-- [ ] Copiar 4 skills para `~/.hermes/profiles/crisp/skills/` e arquivar globais
-- [ ] Configurar `external_dirs` em `~/.hermes/profiles/crisp/config.yaml` para `skills/finance`, `skills/financeiro`, `skills/firefly-iii-account-reconciliation`
-- [ ] Mover cron jobs `470ef7c97cc4` e `efb4cf5ea910` para perfil crisp (re-create no perfil)
-- [ ] Smoke-test: rodar `firefly_sync.py` uma vez via Crisp e verificar output vs baseline
-- [ ] Validar cron `next_run_at` após migração
+- [x] Pré-popular `~/.hermes/profiles/crisp/memories/MEMORY.md` e `USER.md` com o consolidado
+- [x] Copiar 4 skills para `~/.hermes/profiles/crisp/skills/` e arquivar globais em `.archive/`
+- [x] Resolver armadilha do scheduler: cron jobs no Hermes são globais (storage `~/.hermes/cron/jobs.json`, sem campo `profile`). Solução escolhida: **adicionar `skills.external_dirs: [~/.hermes/profiles/crisp/skills]` em `~/.hermes/config.yaml`** (default profile). Scheduler do main carrega as skills via external_dirs; fonte canônica segue única no perfil Crisp.
+- [x] Recriar cron jobs `9952d3867eb3` (sync 01:00) e `e1c9f49b2167` (categoriser 01:15) no scheduler global
+- [x] Remover jobs antigos `470ef7c97cc4` e `efb4cf5ea910` do default
+- [ ] Smoke-test: rodar `firefly_sync.py` uma vez via Crisp e verificar output vs baseline — **pendente**
+- [ ] Validar cron `next_run_at` após migração — **pendente primeira execução às 02:00 Lisboa de 2026-07-30**
 
 ## Histórico do handover
 
 | Data | Quem | O que |
 |---|---|---|
 | 2026-07-29 | Jarvis (main) | Criou este documento; consolidou estado para migração |
+| 2026-07-29 | Jarvis (main) | Executou migração: handover docs, MEMORY/USER Crisp, 4 skills → `profiles/crisp/skills/`, external_dirs configurado, cron jobs movidos para scheduler global com skill `firefly-pipeline`/`multi-currency-finance-reconciliation` |
