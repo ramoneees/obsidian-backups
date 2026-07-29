@@ -34,6 +34,17 @@ Inventário de tarefas recorrentes. Nina **só organiza a partir daqui** — se 
 | Limpar geladeira | (preencher) | (preencher) | (preencher) |
 | Faxina geral | (preencher) | (preencher) | (preencher) |
 
+### Ambientes informados pela Chefinha (2026-07-29)
+
+- 2 quartos
+- Sala de jantar
+- Sala de estar
+- Cozinha
+- 2 banheiros
+- Hall de entrada
+- Escritório
+- Terraço/quintal
+
 ## Compras e mercado
 
 | Tarefa | Frequência | Duração estimada | Responsável padrão |
