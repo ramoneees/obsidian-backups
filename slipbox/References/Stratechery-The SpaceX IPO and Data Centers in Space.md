@@ -7,7 +7,7 @@ category: "Articles"
 ingested: 2026-06-09
 tags: [tech, estratégia, negócios]
 ---
-
+	
 # The SpaceX IPO and Data Centers in Space
 
 **Source:** Stratechery

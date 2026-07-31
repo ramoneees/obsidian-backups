@@ -3,11 +3,11 @@ kindle-bookId: '33404'
 kindle-title: >-
   Reset: vivendo no ritmo da graça em uma cultura estressada (Portuguese
   Edition)
-kindle-author: 'David Murray, Tiago J. Santos Filho, and Elizabeth Gomes'
-kindle-highlightsCount: 9
+kindle-author: David Murray
+kindle-highlightsCount: 11
 kindle-asin: B08VKXP844
-kindle-lastAnnotatedDate: '2026-05-09'
-kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/71mClGznnQL._SX1024.jpg'
+kindle-lastAnnotatedDate: '2026-06-06'
+kindle-bookImageUrl: 'https://m.media-amazon.com/images/I/61ikle9Oz4L._SX1024.jpg'
 ---
 # Reset
 ## Metadata
@@ -43,5 +43,12 @@ temos de nutrir nossa vida com recreação regular, especialmente exercício fí
 
 ---
 descansar como uma das formas que Deus provê para renovar e resetar nossa vida. A — location: [1120](kindle://book?action=open&asin=B08VKXP844&location=1120) ^ref-15814
+
+---
+
+Se a pergunta mais importante do mundo é “quem é Deus?”, a segunda pergunta mais importante é “quem sou eu?” — location: [1623](kindle://book?action=open&asin=B08VKXP844&location=1623) ^ref-26087
+
+---
+Quanto mais palavras usarmos para descrever nossa salvação pela graça de Deus, mais influente essa graciosa salvação será para o nosso senso de identidade, e mais nossa vida será marcada pelas bênçãos da graça. — location: [1715](kindle://book?action=open&asin=B08VKXP844&location=1715) ^ref-55408
 
 ---
