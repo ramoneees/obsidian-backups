@@ -1,16 +1,16 @@
 ---
 source: Tim Challies
-title: "Free Stuff Fridays (New Growth Press)"
-date: 2026-07-31T16:01:00Z
-url: https://www.challies.com/articles/free-stuff-fridays-new-growth-press-3/
+title: "Weekend A La Carte (August 1)"
+date: 2026-08-01T04:01:00Z
+url: https://www.challies.com/a-la-carte/weekend-a-la-carte-august-1-2026/
 ingested: 2026-08-01
 ---
 
-# Free Stuff Fridays (New Growth Press)
+# Weekend A La Carte (August 1)
 
 **Fonte:** Tim Challies  
-**Data:** 2026-07-31T16:01:00Z  
-**URL original:** https://www.challies.com/articles/free-stuff-fridays-new-growth-press-3/
+**Data:** 2026-08-01T04:01:00Z  
+**URL original:** https://www.challies.com/a-la-carte/weekend-a-la-carte-august-1-2026/
 
 ## Resumo / notas principais
 

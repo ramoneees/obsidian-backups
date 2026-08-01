@@ -1,0 +1,22 @@
+---
+source: Ligonier
+title: "Godly Parenting as a Witness to the World"
+date: 2026-07-30T00:00:00Z
+url: https://feeds.ligonier.org/~/917751410/0/ligonierministriesblog
+ingested: 2026-08-01
+---
+
+# Godly Parenting as a Witness to the World
+
+**Fonte:** Ligonier  
+**Data:** 2026-07-30T00:00:00Z  
+**URL original:** https://feeds.ligonier.org/~/917751410/0/ligonierministriesblog
+
+## Resumo / notas principais
+
+Artigo novo identificado no feed Ligonier. O conteúdo deve ser consultado na URL original; esta nota preserva o registro, contexto e ponto de partida para leitura.
+
+## Notas e conexões
+
+- Referência ingerida automaticamente via blogwatcher.
+- [[slipbox/References]]

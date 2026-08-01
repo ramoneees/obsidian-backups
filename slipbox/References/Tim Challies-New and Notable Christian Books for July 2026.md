@@ -1,16 +1,16 @@
 ---
 source: Tim Challies
-title: "Free Stuff Fridays (New Growth Press)"
-date: 2026-07-31T16:01:00Z
-url: https://www.challies.com/articles/free-stuff-fridays-new-growth-press-3/
+title: "New and Notable Christian Books for July 2026"
+date: 2026-07-29T04:02:00Z
+url: https://www.challies.com/articles/new-and-notable-christian-books-for-july-2026/
 ingested: 2026-08-01
 ---
 
-# Free Stuff Fridays (New Growth Press)
+# New and Notable Christian Books for July 2026
 
 **Fonte:** Tim Challies  
-**Data:** 2026-07-31T16:01:00Z  
-**URL original:** https://www.challies.com/articles/free-stuff-fridays-new-growth-press-3/
+**Data:** 2026-07-29T04:02:00Z  
+**URL original:** https://www.challies.com/articles/new-and-notable-christian-books-for-july-2026/
 
 ## Resumo / notas principais
 

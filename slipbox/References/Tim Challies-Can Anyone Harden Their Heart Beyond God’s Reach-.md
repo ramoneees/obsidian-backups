@@ -1,16 +1,16 @@
 ---
 source: Tim Challies
-title: "Free Stuff Fridays (New Growth Press)"
-date: 2026-07-31T16:01:00Z
-url: https://www.challies.com/articles/free-stuff-fridays-new-growth-press-3/
+title: "Can Anyone Harden Their Heart Beyond God’s Reach?"
+date: 2026-07-31T04:02:00Z
+url: https://www.challies.com/articles/can-anyone-harden-their-heart-beyond-gods-reach/
 ingested: 2026-08-01
 ---
 
-# Free Stuff Fridays (New Growth Press)
+# Can Anyone Harden Their Heart Beyond God’s Reach?
 
 **Fonte:** Tim Challies  
-**Data:** 2026-07-31T16:01:00Z  
-**URL original:** https://www.challies.com/articles/free-stuff-fridays-new-growth-press-3/
+**Data:** 2026-07-31T04:02:00Z  
+**URL original:** https://www.challies.com/articles/can-anyone-harden-their-heart-beyond-gods-reach/
 
 ## Resumo / notas principais
 
