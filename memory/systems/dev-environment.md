@@ -20,6 +20,7 @@
 - imsg (iMessage/SMS read+send) — Full Disk Access already granted
 - remindctl (Reminders, full access via osascript prompt trick)
 - memo (Apple Notes; account empty = "No notes found" is normal)
+- ical (Apple Calendar, EventKit; brew tap BRO3886/tap) — skill em ~/.hermes/skills/apple/ical-cli + ~/.claude/skills/ical-cli. Grants TCC próprios do binário. 14 calendários iCloud/Google no Mac.
 
 ## Computer Use
 - cua-driver at ~/.local/bin/cua-driver, daemon via CuaDriver.app, telemetry DISABLED
