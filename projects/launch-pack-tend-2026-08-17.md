@@ -54,3 +54,19 @@ Estado real: 88 ecrãs Expo Router, backend tRPC completo (RLS, realtime, jobs, 
 - pack: `~/dev/pack` · docs de loja em `docs/` · PR #4 review em `review-comments.md` (4/4 blockers iOS resolvidos no #6)
 - tend: `~/dev/tend` · `docs/MVP-PRIORITIES.md` (core loop) · `.sisyphus/plans/parenting-platform-mvp.md`
 - PRs do tend no Gitea: git.ramoneees.com/tekton/tend
+
+## 2026-08-18 — Pack App Store readiness (executado)
+
+Feito e verificado:
+- ✅ Contradição de compliance corrigida (PR #7, merged): PrivacyInfo.xcprivacy agora declara tracking=true + DeviceID/Advertising (realidade AdMob+ATT); copy do ATT e da listing alinhadas; privacy-policy.md v1.1
+- ✅ Site obrigatório da Apple no ar: repo público `ramoneees/pack-web` → https://ramoneees.github.io/pack-web/ (support 200, privacy 200, terms 200)
+- ✅ Todos os docs de loja apontam para as URLs vivas (commit fd3522d)
+- ✅ xcodegen + cocoapods instalados via brew
+
+Pendente (ordem):
+1. Build de verificação iOS (rodando; validar depois)
+2. Apple Developer account finalizar (Boss) → criar Bundle ID com.pack.app no portal
+3. App Store Connect: criar app, listing de docs/app-store-listing.md, IAPs com IDs EXATOS de StoreManager.swift (com.pack.subscription.weekly / .yearly / com.pack.lifetime)
+4. Screenshots iPhone 6.9" (guia: docs/ios-screenshots-guide.md) — ainda não existem
+5. Archive → TestFlight (docs/testflight-guide.md)
+6. AdMob: IDs de Release já são os reais (6873538305991177); conferir se app iOS está registado no console AdMob
