@@ -100,3 +100,18 @@ Caminho definido: E2E local primeiro (relógio de dogfood 2 semanas Boss+Chefinh
 - ⛔ NOVO BLOQUEIO: GitHub Actions billing/spending limit esgotado (macOS runners 10x) — TODOS os jobs morrem em 3s. Boss: github.com/settings/billing
 - Pendente p/ TestFlight: enrollment Apple ativar → Bundle ID → archive (chain já provada)
 - fd3522d = main; PRs #8/#9/#10 draft aguardando billing p/ validação final + merge
+
+## 2026-08-18 (noite) — RUNNER SELF-HOSTED + #9/#8/#12 MERGED (estado atual)
+
+Resolvido nesta sessão (ordem cronológica):
+- ✅ Billing destravado; PRs validados e merged: #8 (release pipeline), #12 (piloto Linux Olympus), **#9 (CI triage) — 8/8 verde, merged**. Causa-raiz do crash iOS: `GADApplicationIdentifier` faltando no Info.plist (não era runtime 26.x). Fixes #9: plist key + photo seed + picker confirm.
+- ✅ **Runner self-hosted no Mac mini**: `~/actions-runner-osx` (v2.336.0), nohup ./run.sh, log /tmp/mac-mini-runner.log. Fix crítico: `.path` (Java17 brew) + `.env` (JAVA_HOME, DEVELOPER_DIR) — runner boota shell limpo sem PATH. maestro-ios: **2m58s no mini vs 15-17min/10× no GH**. Label: `self-hosted,pack-macos`. Workflow maestro-tests.yml e action ios-kmm-setup já no main (flexíveis c/ runtime/Xcode 26).
+- ✅ **PR #10 (FFmpegKit restore) rebasado no main novo (8490de9), pushed, CI a correr** — ver veredito: `gh pr checks 10`. Era 7 commits de CI android (emulator boot budget, daemon cleanup). Stash no worktree pack-wt-ffmpeg guarda o AGENT_BRIEF original da missão ffmpeg (stash@{0}).
+- ✅ context_length do Hermes: 500k → 1M (hermes config set) — nova sessão já boota com 1M.
+
+Pickup da próxima sessão (ordem):
+1. `gh pr checks 10` → se verde, Boss merge; se ui-test flake, reroll documentado no PR
+2. Tend Wave 0 (RAM barata): auth static seed fix — plano em `~/dev/tend` branch agent/shipping-plan, `.sisyphus/plans/tend-shipping-plan.md`; worktree tend-wt-plan
+3. TestFlight: enrollment Apple → Bundle ID com.pack.app → archive (chain local já provada)
+4. Depois: LaunchAgent p/ runner sobreviver a reboot (1 comando hoje: `cd ~/actions-runner-osx && ./run.sh`)
+5. Worktrees pack vivos: pack-wt-ci (#9, merged — removível), pack-wt-ffmpeg (#10), pack-wt-infra
