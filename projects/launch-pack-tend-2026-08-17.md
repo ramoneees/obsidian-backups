@@ -91,3 +91,12 @@ Caminho definido: E2E local primeiro (relógio de dogfood 2 semanas Boss+Chefinh
 - Tend: implementação PARADA (agentes local-e2e/deploy-infra mortos a meio; descobertas preservadas em tend-wt-plan/docs/planning-inputs/). Achado crítico deles: auth adapter static boota VAZIO — nenhum token autentica (fix Wave 0 do plano).
 - Tend agora: agente PLANNER (papel prometheus) a gerar .sisyphus/plans/tend-shipping-plan.md (worktree ~/dev/tend-wt-plan, branch agent/shipping-plan). Docs only. Execução depois por sisyphus quando houver folga de RAM.
 - Worktrees mortos removidos.
+
+
+## 2026-08-18 (fim de tarde) — Cadena iOS local VERDE + reviews feitas
+- ✅ Xcode 26.6 instalado, license aceita, runtime iOS 26.5 registado (após colisão GUI+CLI que purgou o 1º download — lição: nunca instalar runtime pelas duas frentes)
+- ✅ CHAIN COMPLETA LOCAL: KMM framework (linkPodDebugFrameworkIosSimulatorArm64) → pod install (ffmpeg-kit-ios-full 6.0 + GMA) → xcodegen → BUILD SUCCEEDED no simulador iOS 26.5
+- ✅ Code review dos 3 PRs: #8 limpo, #9 limpo (só workflows/flows), #10 limpo e bem escrito (executor reescrito c/ coroutine bridge; GPL flag aceito). Ordem de merge: #9 → #10 → #8
+- ⛔ NOVO BLOQUEIO: GitHub Actions billing/spending limit esgotado (macOS runners 10x) — TODOS os jobs morrem em 3s. Boss: github.com/settings/billing
+- Pendente p/ TestFlight: enrollment Apple ativar → Bundle ID → archive (chain já provada)
+- fd3522d = main; PRs #8/#9/#10 draft aguardando billing p/ validação final + merge
