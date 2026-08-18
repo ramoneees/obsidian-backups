@@ -70,3 +70,24 @@ Pendente (ordem):
 4. Screenshots iPhone 6.9" (guia: docs/ios-screenshots-guide.md) — ainda não existem
 5. Archive → TestFlight (docs/testflight-guide.md)
 6. AdMob: IDs de Release já são os reais (6873538305991177); conferir se app iOS está registado no console AdMob
+
+## 2026-08-18 — Tend shipping readiness (delegado)
+
+Verificado:
+- ✅ Quality gate VERDE no main (typecheck 12/12, test 11/11) — repo muito além do "scaffold" que os docs alegam
+- ✅ Core loop substancialmente construído: handoff state machine completo, Today view com "who's on it" lado-a-lado, quick capture, 15 routers, 42 ficheiros de teste
+- ✅ AUTH_ADAPTER=static existe → dogfood SEM Clerk prod
+- Gap real: nunca correu end-to-end (sem Postgres local, sem .env.example, sem migrations aplicadas, sem deploy)
+
+Agentes OpenCode em curso (worktrees ~/dev/tend-wt-*):
+- agent/local-e2e → compose+Postgres16, .env.example, migrations, seed (Boss+Chefinha+dependente+starter kits), runbook local-dev
+- agent/deploy-infra → Dockerfile backend, fly.toml (mad), runbook deploy, rec Postgres
+
+Caminho definido: E2E local primeiro (relógio de dogfood 2 semanas Boss+Chefinha começa já, via Expo Go na LAN), deploy em paralelo, eas.json/EAS builds depois do dogfood estabilizar.
+
+
+## 2026-08-18 (tarde) — Mudança de estratégia (Boss)
+- RAM é o recurso escasso (16GB): heavylifting SÓ no pack agora.
+- Tend: implementação PARADA (agentes local-e2e/deploy-infra mortos a meio; descobertas preservadas em tend-wt-plan/docs/planning-inputs/). Achado crítico deles: auth adapter static boota VAZIO — nenhum token autentica (fix Wave 0 do plano).
+- Tend agora: agente PLANNER (papel prometheus) a gerar .sisyphus/plans/tend-shipping-plan.md (worktree ~/dev/tend-wt-plan, branch agent/shipping-plan). Docs only. Execução depois por sisyphus quando houver folga de RAM.
+- Worktrees mortos removidos.
