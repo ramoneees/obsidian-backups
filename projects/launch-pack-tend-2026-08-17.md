@@ -149,3 +149,13 @@ Pickup da próxima sessão (ordem):
 - ✅ Fixes da noite em 3 camadas: `.path` colon-sep (tar), `.env` +LANG (CocoaPods), emulator arm64/api-34 (QEMU recusa x86_64 em host aarch64).
 - ✅ **prometheus (opencode) completou spec Wave 0**: `.sisyphus/plans/wave0-static-auth-spec.md` (646 linhas, verificado contra código). Drift crítico: backend STRIP `AUTH_ADAPTER_OPTIONS` (zod env schema não declara; index.ts passa env limpo) — factory fix sozinho teria boot-crashado; spec inclui passthrough em env.ts. Outros: teste existente codifica o bug (factory.test.ts:10-14 → reescrever c/ allowEmpty), testes já existem em tests/unit/, zod já é dep. Bônus W5: CLERK_SECRET_KEY/ORY_BASE_URL sofrem strip igual.
 - Próximo tend: sisyphus executa a spec (aguarda go — RAM ok, pack CI não precisa do Mac). Next pack: enrollment Apple → Bundle ID → archive TestFlight (Boss); hygiene PRs (lint SettingsScreen, smoke instrumentado, screenshots 6.9") delegáveis.
+
+## 2026-08-19 (meio-dia) — WAVE 0 DONE (sisyphus, verificado independente)
+
+- ✅ 1ª run sisyphus STALOU após escrever testes red (2h, 6min CPU — vs 1m15s na resume run sã; watchdog: mtime de ficheiros + CPU do PID). Kill limpo, trabalho red preservado, resume run reconciliou.
+- ✅ **Wave 0 completo**: b27e113 (21 testes factory + 2 env, TDD red 8+1 verificado) → 07bc705 (factory zod seed + env.ts passthrough + .env.example). Gate 25/25, backend 388/388, auth-adapter 31/31 — corridos pelo Hermes independentemente.
+- ✅ Desvio documentado e ENDORSED: spec §3.1 contraditória (mensagem de erro recomenda {"allowEmpty":true} que o schema rejeitava); fix 1 token `.default([])`; nota em .sisyphus/evidence/wave0-0.2-deviation-note.md.
+- Nota env: worktree tend-wt-plan não tinha node_modules (planner só docs); sisyphus symlinkou os 8 dirs de ~/dev/tend (lockfiles byte-idênticos verificados). Symlinks untracked — ficam.
+- Lição stalled-run: quando opencode run fica >30min sem tocar ficheiros e CPU ~0 → kill + resume c/ brief de reconcile; não esperar.
+- **Pendente Boss: push de agent/shipping-plan p/ Gitea** (sem creds locais — confirmado). 3 commits à espera: spec prometheus + wave0 ×2.
+- Próximo: prometheus spec Wave 1 (local E2E: compose pg16.4, migrations, seed, runbook) → sisyphus build. Docker 29.4 + imagem postgres já verificados locais.
