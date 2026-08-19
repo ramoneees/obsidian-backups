@@ -193,3 +193,12 @@ Pickup da próxima sessão (ordem):
 - Lição de verificação (minha): errei 2× ao validar — POST em query tRPC (é GET) e re-run de migrate não-idempotente (D18 documentava; uso `db:reset` p/ re-seed). Além disso: resolver módulos pelo path do checkout principal (tend/) engana — sempre cd ao worktree. Evidência do sisyphus era correta.
 - **Branch agent/shipping-plan agora: 8 commits à frente do main** (W0+W1+specs). PR #7 Gitea atualiza-se sozinho no push (mesma branch).
 - Próximos passos: (a) push dos 4 commits W1 → PR #7 cresce; (b) Expo Go 2 phones (passos 10-11 do spec W1 — runbook docs/runbook/local-dev.md tem o procedimento; precisa Boss + Chefinha fisicamente); (c) W2 build (Dockerfile/fly) até aos Boss-gates.
+
+## 2026-08-19 (noite II) — PR #7 MERGED; Play armado; W2 build DONE @ BG-1; keystore regen
+
+- ✅ **PR #7 (tend) MERGED** (539e19d): W0+W1+specs no main. Remote do checkout ~/dev/tend agora token-wired (pull ok).
+- ✅ **Play Console armado** (Boss): SA `id-pack-android-publisher@pack-500912` criada (org policy disableServiceAccountKeyCreation contornada — Boss é owner, desligou/criou chave), convidada com permissão release internal; projeto pack-500912 linkado. Secrets GH: GOOGLE_CLOUD_CREDENTIALS_JSON + keystore ×4 + var ANDROID_PACKAGE_NAME=com.pack.app. JSON temp destruído após seed.
+- ✅ **PR #15 merged** (R8 LoudnessCodecController dontwarn; AAB local 25MB provado).
+- ⛔→✅ **Keystore incidente (meu)**: keytool PKCS12 NÃO suporta store/key passwords diferentes — key usava store-pw silenciosamente; secretei key-pw distinta → signReleaseBundle "final block not properly padded". Regen com password ÚNICA, secrets resetadas, v1.0.0(3) disparada. Lição: PKCS12 = 1 password, sempre.
+- ✅ **W2 build DONE até BG-1** (sisyphus, 4 commits, Docker gate local PASSOU — image 1.68GB kept; fix D-9 COPY gap que mascarava localmente). Branch agent/wave2-deploy pushed, **PR #8 Gitea** aberto. BG-1..4 (flyctl/auth/create/deploy) = Boss, runbook docs/runbook/deploy.md.
+- Pendente: v1.0.0(3) run em curso (sign+upload internal); 1Password update c/ nova keystore password (arquivo ~/pack-keystore-creds.txt até Boss copiar; depois shred).
