@@ -176,3 +176,20 @@ Pickup da próxima sessão (ordem):
 - Roteamento oficial: sisyphus/prometheus/code-review=**5.3** (3× peak 07-11h LIS; correr de noite=1×) · micro-agentes (lint, renames, docs)=**4.7** via `--model` no launch · cron/briefings/watchdogs=**4.5-flash/air** · visão (screenshots QA)=**4.5v/4.6v**.
 - Liturgia dos briefs: agente one-shot NUNCA termina turno à espera de subagent (sem notificações = deadlock). Prometheus W2 caiu nisso; resumido c/指令 explícita.
 - PR #14: 6/7 verde (lint PASS em CI 38s — fix confirmado ponta-a-ponta).
+
+## 2026-08-19 (fim de tarde) — PR #14 MERGED; omo.jsonc remapeado GLM-only; W2 spec pronta
+
+- ✅ **PR #14 merged** — lint pack limpo no main pela 1ª vez desde Junho.
+- ✅ **~/.omo/omo.jsonc remapeado** (backup .bak.before-glm-remap-20260819): sisyphus/hephaestus/prometheus=5.3 · oracle/metis/momus=5.2 · librarian/explore/atlas/junior/quick/writing=4.7 · multimodal-looker=gemini-2.5-pro (única exceção: plano GLM sem visão no opencode). Antes: 6 agentes ainda em qwen/minimax/deepseek. Default global opencode = zai-coding-plan/glm-4.7. Mecanismo verificado: `-m zai-coding-plan/glm-4.7` (banner confirma); `--agent` é ignorado em run mode.
+- ✅ **W2 deploy spec** (5ea108e, 772 linhas): Dockerfile root-context, fly.toml tend-api/mad, auto_stop_machines=off p/ pg-boss, RLS bootstrap SQL, 13 passos c/ 4 Boss-gates. Drift crítico: `fly postgres attach` cria user SUPERUSER por default → spec usa `--superuser=false` + grants (guardrail RLS preservado). Risco nº1: pnpm filtered-install no Docker (por isso o gate de build local é barreira antes dos gates pagos).
+- Sisyphus W1 a meio (step ~6/14; evidence: tdd-green, migrate, seed, force-rls já em disco).
+- ✅ **Push Gitea feito + PR #7 aberto** (tekton/tend, agent/shipping-plan → main): W0 impl + specs W1/W2. Aguarda merge do Boss. Creds: token one-shot na URL (remote limpo), PR via API c/ GITEA_HERMES_TOKEN.
+- 📋 **Apple Enrollment SUBMETIDO, em processamento** (ID R7L6463M9A, ramonp.rios@gmail.com, 2026-08-19). Típico 24-48h; às vezes telefone de verificação. Ao ativar: aceitar agreement → Bundle ID com.pack.app → app record → archive (chain local provada) → TestFlight. Pre-staging possível sem conta: screenshots 6.9" via simulador (queue após W1).
+
+## 2026-08-19 (noite) — WAVE 1 DONE (sisyphus, verificado + lições de verificação)
+
+- ✅ **Wave 1 completo**: 4 commits (b68128d compose → b9402cf TDD red → ce68672 migrate+seed RLS → 4e00c0a runbook/evidence). Gate 12/12, 7/7, 392/392. E2E provado: task.list autenticado (token Boss 200 c/ dados reais, Chefinha 200, sem token 401). Compose down, volume preservado, portas livres — estado final limpo.
+- **Bônus do build**: D15 reparou bug REAL pre-existing (task.list SELECT de 3 colunas sem migração — criou 0012 repair; migrate agora = 12) + D14 boot blocker (rrule ESM interop). 8 desvios documentados em .sisyphus/evidence/wave1-deviations.md.
+- Lição de verificação (minha): errei 2× ao validar — POST em query tRPC (é GET) e re-run de migrate não-idempotente (D18 documentava; uso `db:reset` p/ re-seed). Além disso: resolver módulos pelo path do checkout principal (tend/) engana — sempre cd ao worktree. Evidência do sisyphus era correta.
+- **Branch agent/shipping-plan agora: 8 commits à frente do main** (W0+W1+specs). PR #7 Gitea atualiza-se sozinho no push (mesma branch).
+- Próximos passos: (a) push dos 4 commits W1 → PR #7 cresce; (b) Expo Go 2 phones (passos 10-11 do spec W1 — runbook docs/runbook/local-dev.md tem o procedimento; precisa Boss + Chefinha fisicamente); (c) W2 build (Dockerfile/fly) até aos Boss-gates.
