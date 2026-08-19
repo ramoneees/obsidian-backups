@@ -159,3 +159,20 @@ Pickup da próxima sessão (ordem):
 - Lição stalled-run: quando opencode run fica >30min sem tocar ficheiros e CPU ~0 → kill + resume c/ brief de reconcile; não esperar.
 - **Pendente Boss: push de agent/shipping-plan p/ Gitea** (sem creds locais — confirmado). 3 commits à espera: spec prometheus + wave0 ×2.
 - Próximo: prometheus spec Wave 1 (local E2E: compose pg16.4, migrations, seed, runbook) → sisyphus build. Docker 29.4 + imagem postgres já verificados locais.
+
+## 2026-08-19 (tarde) — MAX PLAN anual; modo fleet; W1 build + W2 spec em paralelo
+
+- ✅ Boss fechou **GLM Coding Plan Max anual** (~$112/mês). Hermes, OpenCode e Claude Code estão TODOS na lista oficial de tools suportadas (docs.z.ai/devpack/tool/others). Endpoint: api.z.ai/api/coding/paas/v4 (já era o do LiteLLM). Novo plano pós-Jul/30 é credits-based; 5.3/5-turbo custam 3× em peak 07:00-11:00 LIS — rota 4.7 de manhã fica barata. Key nova testada end-to-end via LiteLLM (HTTP 200).
+- ✅ **Wave 1 spec pronta** (898bba6, 641 linhas, 10 drifts: 11 migrations não 12; sem tabela households; task.list exige familyId; roles real FAMILY_ADMIN/PARENT; seed via withUserContext RLS-proven). Sisyphus build em curso (evidence TDD-red já aparece).
+- ✅ Prometheus WAVE 2 spec em paralelo (brief em AGENT_BRIEF_W2.md separado — W1 intacto durante build; planner read-only).
+- ✅ **PR #14 aberto** (pack): fix lint SettingsScreen API-33 (agent + verificação independente: 0 erros, 135/135 testes). Branch ci/lint-settings e802553.
+- Doutrina fleet (Max plan): **planners ilimitados (só API), builders racionados por RAM**. Watchdog: >30min sem mtime/CPU ~0 → kill + resume c/ brief de reconcile.
+- Queue: W1.5 Expo Go dogfood · W3 EAS specs · pack smoke instrumentado + screenshots 6.9" · store listings.
+- Desk Boss: push Gitea tend (4 commits) · enrollment Apple · Play secrets.
+
+## 2026-08-19 (tarde, cont.) — Inventário GLM Max via LiteLLM + roteamento por custo
+
+- Probe empírico (1 request/modelo): **LIVE (11)**: glm-5.3, 5.1, 5, 5-turbo, 4.7, 4.6, 4.5, 4.5-air, 4.5-flash, 4.7-flash, 4.5v, 4.6v. **MORTOS no plano**: glm-4.7-flashx (exige saldo API), glm-5v-turbo (excluído da tier).
+- Roteamento oficial: sisyphus/prometheus/code-review=**5.3** (3× peak 07-11h LIS; correr de noite=1×) · micro-agentes (lint, renames, docs)=**4.7** via `--model` no launch · cron/briefings/watchdogs=**4.5-flash/air** · visão (screenshots QA)=**4.5v/4.6v**.
+- Liturgia dos briefs: agente one-shot NUNCA termina turno à espera de subagent (sem notificações = deadlock). Prometheus W2 caiu nisso; resumido c/指令 explícita.
+- PR #14: 6/7 verde (lint PASS em CI 38s — fix confirmado ponta-a-ponta).
