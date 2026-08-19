@@ -202,3 +202,19 @@ Pickup da próxima sessão (ordem):
 - ⛔→✅ **Keystore incidente (meu)**: keytool PKCS12 NÃO suporta store/key passwords diferentes — key usava store-pw silenciosamente; secretei key-pw distinta → signReleaseBundle "final block not properly padded". Regen com password ÚNICA, secrets resetadas, v1.0.0(3) disparada. Lição: PKCS12 = 1 password, sempre.
 - ✅ **W2 build DONE até BG-1** (sisyphus, 4 commits, Docker gate local PASSOU — image 1.68GB kept; fix D-9 COPY gap que mascarava localmente). Branch agent/wave2-deploy pushed, **PR #8 Gitea** aberto. BG-1..4 (flyctl/auth/create/deploy) = Boss, runbook docs/runbook/deploy.md.
 - Pendente: v1.0.0(3) run em curso (sign+upload internal); 1Password update c/ nova keystore password (arquivo ~/pack-keystore-creds.txt até Boss copiar; depois shred).
+
+## 2026-08-19 (noite III) — 🎉 PACK v1.0.0 NO GOOGLE PLAY (internal) · Tend W2 MERGED
+
+- ✅ **pack v1.0.0(3) NO PLAY, internal track**: build-release SUCCESS (sign com keystore nova) + deploy-internal SUCCESS (SA upload). promote-production failure = stub documental (gcloud não instalado no mini; só instruções — design). Próximo Boss: Play Console → Internal testing → opt-in link → instalar no telemóvel; juntar 20 testers p/ clock 14 dias.
+- ✅ **Tend PR #8 (W2 infra) MERGED** (2f12732). BG-1..4 fly (auth/create/postgres+attach --superuser=false/deploy) prontos quando Boss quiser — runbook docs/runbook/deploy.md.
+- Estado global dos launches: pack Android = internal LIVE · pack iOS = à espera Apple enrollment (R7L6463M9A) · tend = W0/W1/W2 code DONE, falta BG fly + Expo Go dogfood 2 semanas (Boss+Chefinha) · EAS/W3 specs = queue.
+
+## PICKUP — tend rumo a "produto pronto" (definido 2026-08-19 noite)
+
+1. **API live — Boss, 1 tarde**: BG-1..4 do runbook (docs/runbook/deploy.md): `brew install flyctl && fly auth login` → `fly apps create tend-api` → `fly postgres create tend-db --region mad` → **`fly postgres attach tend-db -a tend-api --superuser=false`** (guardrail RLS) → bootstrap SQL §6 spec W2 → `fly secrets set` (checklist runbook) → `fly deploy -c apps/backend/fly.toml` → seed + verify (step 12). ~$2-3/mês.
+2. **App instalável — W3 (agentes, 1-2 dias)**: ainda NÃO começado. Prometheus spec → sisyphus build: eas.json, conta expo.dev (Boss, free tier), bump 0.0.1→0.1.0, builds EAS apontados à API live. iOS depende do enrollment Apple (partilhado c/ pack).
+3. **Dogfood gate — W4 (2 semanas calendário, incompressível)**: Boss+Chefinha uso diário real. PODE COMEÇAR CEDO: Expo Go contra backend local (runbook local-dev.md) antes de fly/EAS — clock oficial re-corre contra API deployed, mas fricção óbvia já resolvida.
+4. **Store polish — W5 (agentes 2 dias + clicks Boss)**: privacy manifest, policy/terms hosting (pattern pack-web), listings, screenshots. **Decisão Clerk**: ship c/ static ou cut to Clerk prod — e W5 DEVE estender env.ts p/ CLERK_SECRET_KEY (mesmo bug strip do W0; senão Clerk boota morto).
+5. Dívida não-bloqueante: image Docker 1.68GB (cosmético; fix `pnpm deploy` notado W3+); migrate não-idempotente (documentado; db:reset provado).
+
+Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
