@@ -142,3 +142,10 @@ Pickup da próxima sessão (ordem):
 - ⛔→✅ Bug do LaunchAgent: `.path` multi-linha virava PATH inválido no boot launchd → "tar: command not found" no JobExtension (jobs morriam em 5s). Fix: `.path` = 1 linha colon-separated + restart svc. Antes funcionava por sorte: boot nohup herdava PATH rico do shell.
 - Estado no fecho da sessão: 7 jobs do PR #13 re-queued no mini corrigido (~30-45min serial, $0). Ver veredito: `gh pr checks 13`.
 - Pendente: billing GitHub continua quebrado (irrelevante p/ CI pack agora, relevante p/ outros repos); follow-up lint SettingsScreen (2 erros API-33); tend Wave 0 brief pronto em tend-wt-plan/AGENT_BRIEF.md (falta go).
+
+## 2026-08-19 (manhã) — PR #13 MERGED 7/7; prometheus entrega spec Wave 0
+
+- ✅ **PR #13 merged** (08:17Z, main 9c86e88): pipeline pack 100% self-hosted. Board final 7/7 verde (ui-test 6m25s c/ emulator arm64 real; maestro-ios 3m9s pós-fix LANG). Billing GitHub tornou-se irrelevante p/ pack.
+- ✅ Fixes da noite em 3 camadas: `.path` colon-sep (tar), `.env` +LANG (CocoaPods), emulator arm64/api-34 (QEMU recusa x86_64 em host aarch64).
+- ✅ **prometheus (opencode) completou spec Wave 0**: `.sisyphus/plans/wave0-static-auth-spec.md` (646 linhas, verificado contra código). Drift crítico: backend STRIP `AUTH_ADAPTER_OPTIONS` (zod env schema não declara; index.ts passa env limpo) — factory fix sozinho teria boot-crashado; spec inclui passthrough em env.ts. Outros: teste existente codifica o bug (factory.test.ts:10-14 → reescrever c/ allowEmpty), testes já existem em tests/unit/, zod já é dep. Bônus W5: CLERK_SECRET_KEY/ORY_BASE_URL sofrem strip igual.
+- Próximo tend: sisyphus executa a spec (aguarda go — RAM ok, pack CI não precisa do Mac). Next pack: enrollment Apple → Bundle ID → archive TestFlight (Boss); hygiene PRs (lint SettingsScreen, smoke instrumentado, screenshots 6.9") delegáveis.
