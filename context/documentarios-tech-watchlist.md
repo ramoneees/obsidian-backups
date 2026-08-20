@@ -7,13 +7,13 @@ Watchlist para ir assistindo. Links verificados em 2026-08-20.
 
 ## Linux & Software Livre
 
-- [ ] **The Code: Story of Linux** (2001, Hannu Puttonen) — ~58 min
+- [x] **The Code: Story of Linux** (2001, Hannu Puttonen) — ~58 min ✅ *arquivado no TubeArchivist 2026-08-20*
   O nascimento do Linux na Finlândia e a filosofia por trás dele. Documentário finlandês, narração em inglês, legendas multilíngues (inclui PT).
   ▶️ https://www.youtube.com/watch?v=XMm0HsmOTFI
-- [ ] **Revolution OS** (2001) — ~85 min
+- [x] **Revolution OS** (2001) — ~85 min ✅ *arquivado no TubeArchivist 2026-08-20*
   OS 20 anos de GNU, Linux e a briga "software livre vs open source". Stallman, Torvalds, Eric Raymond, Bruce Perens.
   ▶️ https://www.youtube.com/watch?v=2zrB4dtI-NA
-- [ ] **Code Rush** (2000) — ~55 min
+- [x] **Code Rush** (2000) — ~55 min ✅ *arquivado no TubeArchivist 2026-08-20 (fonte: YouTube/Codédex)*
   O último ano da Netscape e o open-sourcing que virou Mozilla. Licença Creative Commons, gratuito para sempre.
   ▶️ https://archive.org/details/code-rush-2000
 - [ ] **The Codebreakers** (2006, BBC World) — ~50 min
