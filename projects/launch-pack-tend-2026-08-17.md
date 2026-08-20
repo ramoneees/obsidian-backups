@@ -233,3 +233,10 @@ Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
 - 🎉 **tend.ramoneees.com LIVE no cluster** (pitch site p/ amigo/candidato a sócio): Claude Code (conta claude.ai própria, sem colisão c/ opencode) construiu 1 página pt-PT 15KB (design system exato: creme #FAF6F1, terracota #D97757, sem pedidos externos); wiring Hermes: apps/tend-website/ no olympus (padrão pack-website: ConfigMap+nginx:alpine 32Mi, IngressRoute, commit 59f7eca) → Flux → HTTPS 200, TLS ok, gzip 15KB→5KB. Fonte: ~/dev/tend-website/index.html.
 - ⛔ **Acesso externo pendente (Boss, 2 min)**: tend.ramoneees.com NÃO resolve fora de casa (wildcard só interno via AdGuard). Caminho de casa: tunnel weserve-tunnel (cloudflared) já serve packapp publicamente. Boss: CF Zero Trust → Tunnels → weserve → Public Hostname `tend` → http://tend-website.apps.svc.cluster.local:80. Sem token CF API no ambiente Hermes.
 - Prometheus W3 spec ainda a correr (validando free tier EAS: 15+15 builds/mês, queue 90+min, verificado contra docs.expo.dev).
+
+## 2026-08-20 (tarde) — W3 spec ENTREGUE+verificada; GAP crítico confirmado; sisyphus T1 r2 lançado
+
+- ✅ **W3 spec entregue** (65bb9cc, 527 linhas): eas.json 4 perfis, android-first (BG-5..8), credentials matrix, drift 9 entradas. Free tier EAS verificado: 15+15 builds/mês, queue low-priority 90+min, timeout 45min, 1 concorrência.
+- ✅ **Hermes verificou os 2 GAPs críticos da spec contra o código real**: GAP-1 REAL — client.ts httpBatchLink sem header Authorization (só realtime.ts:336 WS autentica) → todas as queries tRPC protegidas 401 pós-login; qualquer build/dogfood morria no 1º ecrã. GAP-2 REAL — design-tokens exports apontam a dist/ gitignored → fresh install (EAS cloud) falha resolução.
+- 🚀 **sisyphus T1 r2** (proc_4cb0ae97707d, tend-wt-t1): brief ampliado — passo 0 = GAP-1 em TDD (client.test.ts header test) + design-tokens fix, depois Metro skew + expo export proof. DB lock livre (prometheus terminou antes de lançar).
+- Lição confissão: entrega de agente às 10:29 + interrupção do user = spec ficou 3h sem verificação independente. Regra já conhecida reforçada: verificar na hora, mesmo com context switch.
