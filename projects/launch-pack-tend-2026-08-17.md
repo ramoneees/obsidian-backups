@@ -240,3 +240,22 @@ Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
 - ✅ **Hermes verificou os 2 GAPs críticos da spec contra o código real**: GAP-1 REAL — client.ts httpBatchLink sem header Authorization (só realtime.ts:336 WS autentica) → todas as queries tRPC protegidas 401 pós-login; qualquer build/dogfood morria no 1º ecrã. GAP-2 REAL — design-tokens exports apontam a dist/ gitignored → fresh install (EAS cloud) falha resolução.
 - 🚀 **sisyphus T1 r2** (proc_4cb0ae97707d, tend-wt-t1): brief ampliado — passo 0 = GAP-1 em TDD (client.test.ts header test) + design-tokens fix, depois Metro skew + expo export proof. DB lock livre (prometheus terminou antes de lançar).
 - Lição confissão: entrega de agente às 10:29 + interrupção do user = spec ficou 3h sem verificação independente. Regra já conhecida reforçada: verificar na hora, mesmo com context switch.
+
+## 2026-08-20 (tarde II) — PR #9 (T1) ABERTO; Fly BG-1..4 executados pela máquina; API deploy em curso
+
+- ✅ **T1-r2 DONE + verificado + PR #9 aberto** (https://git.ramoneees.com/tekton/tend/pulls/9, agent/t1-mobile-verify): GAP-1 auth header TDD (smoke: Boss 200/4tasks, Chefinha 200/4tasks, no-auth 401), GAP-2 design-tokens repoint src/ (elimina classe fresh-install), metro 0.81.x overrides. Export EXIT=0 ios/android/web; metro serving; gates 25/25+11/11. 5 commits. Review note: TODO obsoleto em client.ts (menciona @tend/api-client que já existe como contracts) — cosmético. AGUARDA MERGE BOSS.
+- ✅ **Fly BG-1..3+5 DONE pela máquina** (Boss criou conta + deu token): app tend-api criada (org personal) · postgres tend-db **região cdg NÃO mad — mad foi extinta do Fly; drift real apanhado na execução** · attach --superuser=false (user tend_api) · bootstrap RLS via fly proxy 15433→5433 + psql docker (verificação exata à spec: tend_api f, f, t; app_admin único BYPASSRLS) · secret AUTH_ADAPTER_OPTIONS staged (linha local ≡ prod, ids fixos).
+  - Lições: psql via `fly postgres connect < file` pendura SEM executar em non-TTY mas EXECUTA (re-run idempotente provou); PGPASSWORD export não atravessa docker run — usar -e; fly proxy -a tend-db (não -a tend-api sem máquinas).
+  - Creds: ~/.fly-token-tend + ~/.fly-tend-db-creds.txt (0600; senha superuser pg para 1Password do Boss; depois shred).
+- ⚠️ **Deploy r1 FALHOU, drift flyctl**: v0.4.86 resolve dockerfile/ignorefile relativos ao CONFIG (apps/backend/), não ao CWD → path duplo + .dockerignore ignorado (contexto 830MB c/ node_modules). Fix no checkout principal: fly.toml dockerfile="Dockerfile" + .dockerignore copiado a apps/backend/. **Deploy r2 em curso** (proc_5d3c5f9690b1). Commit do fix pendente (após deploy verde, junto c/ evidence).
+- Próximo após deploy verde: seed prod (fly ssh console node dist/scripts/seed.js) → verify §8 (health/ready/trpc+RLS proof) → board + commit fixes → BG fechado, API LIVE.
+
+## 2026-08-20 (tarde III) — 🎉 TEND API LIVE EM PRODUÇÃO (tend-api.fly.dev)
+
+- ✅ **API LIVE**: https://tend-api.fly.dev — health ok · ready/database connected · tRPC task.list autenticado 200 c/ dados seed (Boss token) · no-auth 401 · **prova RLS: app_user vê 0 rows sem contexto tenant, 4 com** (evidence w2-golive-*.txt). Deploy final verde: release_command (12 migrations+RLS) ok, 2 máquinas cdg, imagem 180MB.
+- ✅ **Seed prod aplicado**: família completa (1 família, Boss+Chefinha, 1 dependente, 2 rotinas, 4 tasks, 1 handoff, 8 audit rows). AUTH_ADAPTER_OPTIONS secret já estava staged (linha local ≡ prod).
+- ✅ **PR #10 aberto** (fix/fly-deploy-drift): flyctl v0.4 path semantics + mad→cdg + evidence golive. Com o PR #9 (T1 mobile) = **2 PRs à espera de merge do Boss**.
+- ⚠️ Deploy r2 também falhou antes do verde: primary_region mad extinto (release_command não provisiona) — 3ª correção da tarde. Custo total dos drifts: 2 deploys falhados, zero dados perdidos.
+- Fly creds: token + senha pg superuser em ~/.fly-*.txt (0600) — **Boss: copiar p/ 1Password e depois shred**. Conta: org personal "Ramon Rios", cartão on file.
+- Postgres: tend-db cdg, unmanaged 256MB+1GB vol, ~$2.2/mês + API ~$2-3/mês. Budget dentro do previsto ($4-5/mês runbook).
+- **Dogfood agora possível contra PROD**: EXPO_PUBLIC_API_URL=https://tend-api.fly.dev/trpc (substitui LAN IP quando quiserem testar fora de casa). Falta merge PR #9 (GAP-1) para o mobile autenticar direito.
