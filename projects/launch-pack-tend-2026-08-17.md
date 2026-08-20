@@ -259,3 +259,11 @@ Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
 - Fly creds: token + senha pg superuser em ~/.fly-*.txt (0600) — **Boss: copiar p/ 1Password e depois shred**. Conta: org personal "Ramon Rios", cartão on file.
 - Postgres: tend-db cdg, unmanaged 256MB+1GB vol, ~$2.2/mês + API ~$2-3/mês. Budget dentro do previsto ($4-5/mês runbook).
 - **Dogfood agora possível contra PROD**: EXPO_PUBLIC_API_URL=https://tend-api.fly.dev/trpc (substitui LAN IP quando quiserem testar fora de casa). Falta merge PR #9 (GAP-1) para o mobile autenticar direito.
+
+## 2026-08-20 (fim de tarde) — PRs #9/#10 MERGED; W3A entregue → PR #11; dogfood armado
+
+- ✅ **#9 e #10 merged pelo Boss** (main ab31c1c). Worktree t1 removido. apps/mobile/.env → apontado a https://tend-api.fly.dev/trpc; Metro a servir :8082 (expo start, proc gerido) — Expo Go dogfood pronto nas 2 phones (QR no terminal).
+- ✅ **W3 Phase A DONE+verificado** (sisyphus, branch agent/wave3-eas, 3 commits): eas.json 4 perfis, 0.0.1→0.1.0, expo-dev-client ~5.0.20 (linha SDK-52; fallback 4.0.29 doc.), expo-updates dangling config removida, docs/runbook/eas-builds.md. Export ios+android EXIT=0 3.9MB Hermes, fly URL inlined (único residuo localhost = fallback morto do client.ts, zero IPs LAN). Gate 11/11 + mobile 35/35. **PR #11 aberto**.
+- ✅ **Conta expo.dev criada pelo Boss** (projeto ID 35a02f31-baab-407a-bf93-4ddb744e7aed — pendente `eas init` linkar ao app.json). `eas init` sem token falhou como esperado (ritual: access token). NOTA: `create-expo-app` foi corrido pelo Boss p/ gerar o projeto — pasta tend/ descartável se existir; app real = apps/mobile.
+- ⏳ **À espera do Boss**: (a) merge PR #11; (b) expo.dev access token → Hermes executa BG-6/7 (eas init + build Android preview p/ canário do pipeline).
+- Aprendizado verificação: grep de "leak" em bundle hbc sem contexto = falso alarme; distinguir string morta (fallback ?? do código) de URL ativa antes de acusar.
