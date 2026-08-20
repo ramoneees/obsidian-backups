@@ -267,3 +267,13 @@ Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
 - ✅ **Conta expo.dev criada pelo Boss** (projeto ID 35a02f31-baab-407a-bf93-4ddb744e7aed — pendente `eas init` linkar ao app.json). `eas init` sem token falhou como esperado (ritual: access token). NOTA: `create-expo-app` foi corrido pelo Boss p/ gerar o projeto — pasta tend/ descartável se existir; app real = apps/mobile.
 - ⏳ **À espera do Boss**: (a) merge PR #11; (b) expo.dev access token → Hermes executa BG-6/7 (eas init + build Android preview p/ canário do pipeline).
 - Aprendizado verificação: grep de "leak" em bundle hbc sem contexto = falso alarme; distinguir string morta (fallback ?? do código) de URL ativa antes de acusar.
+
+## 2026-08-20 (noite) — 🎉 BG-6/7 DONE: projeto @tekton-dev/tend + PRIMEIRO BUILD NATIVO disparado; #11 merged
+
+- ✅ **Mistério das contas expo resolvido**: o projeto 35a02f31 vivia numa **org** (não na conta pessoal). Token novo criado DENTRO da org → `whoami: tekton-dev (Developer)` → project:info: **@tekton-dev/tend** ✓. Token antigo (conta pessoal, sem acesso) → revogar (pendente Boss). Tokens: ~/.expo-token-tend2 (0600).
+- ✅ **BG-6**: eas init linkado (placeholder REPLACE_ME do sisyphus substituído pelo ID real). **BG-7**: `eas build --profile preview --platform android` DISPARADO (build c86b0126) — **keystore Android criada pelo EAS**. EAS exige clean tree: 2 commits chore (briefs/omo + projectId). Build page: expo.dev/accounts/tekton-dev/projects/tend/builds/c86b0126.
+- ✅ **#11 MERGED** (main c9737fa): eas.json 4 perfis + 0.1.0 + projectId. Worktree wt-plan removido, branch limpa.
+- ⚠️ **Perda menor assumida**: evidence w3a-* (gitignored) vivia no worktree removido — cópia encadeada DEPOIS da remoção = perdida. Substância intacta (código/runbook no main, build no dashboard). Lição: copiar evidência ANTES de remover worktree.
+- ⚠️ Stray do T1 finalmentte descartado: apps/mobile/package.json (scripts run:android/run:ios da run morta) — checkout limpo antes do pull. Se valer algo, ganha PR próprio.
+- ⏳ **Build IN_QUEUE** (free tier, 90+min possível). Quando verde: APK install no Android do Boss; keystore backup ritual (EAS Credentials → 3 valores → 1Password).
+- **Estado global tends**: API prod LIVE · main com W0-W3A · dogfood Expo Go pronto (Metro :8082) · build Android a cozer · iOS gated no enrollment Apple. Próximos marcos: APK verde → dogfood 2 semanas → W5 store.
