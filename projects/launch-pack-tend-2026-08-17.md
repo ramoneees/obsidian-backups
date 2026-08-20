@@ -218,3 +218,18 @@ Pickup da próxima sessão (ordem):
 5. Dívida não-bloqueante: image Docker 1.68GB (cosmético; fix `pnpm deploy` notado W3+); migrate não-idempotente (documentado; db:reset provado).
 
 Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
+
+## 2026-08-20 (manhã) — T1 mystery resolvido; sisyphus T1-resume + prometheus W3 spec lançados
+
+- 🔍 **Run fantasma T1 descodificado**: 2026-08-19 22:30-22:46, verificação mobile E2E (db reset→migrate 12→seed→RLS→boot→health→tRPC auth→expo config TUDO verde) que morreu a diagnosticar **skew Metro**: root 0.81.5 vs hoisted 0.84.4 (@react-native/metro-config@0.86.0 nested) + metro-cache-key 0.84.4. Sem conclusão/commits; evidence t1-* no checkout principal. Stray: apps/mobile/package.json modificado no checkout principal (scripts android/ios → expo run:*) — não commitado, deixado.
+- 🚀 **sisyphus T1-resume** lançado (proc_56befa76496f, worktree tend-wt-t1, branch agent/t1-mobile-verify, brief AGENT_BRIEF_T1.md): reproduzir erro de bundle via expo export → fix skew (preferência: alinhar à linha 0.81.x do expo 52) → provar export iOS+Android + expo start responde → smoke backend pairing → gate verde. Destrava dogfood Expo Go.
+- 🚀 **prometheus W3 spec** lançado em paralelo (proc_cd1990239a9f, worktree tend-wt-plan, branch agent/wave3-eas, brief AGENT_BRIEF_W3.md): eas.json, bump 0.1.0, Android-first (iOS gated no enrollment R7L6463M9A), credenciais/keystore próprio tend, free-tier limits verificados. Docs only.
+- Ambos a 5.3 em janela peak (07-11h, 3× quota) — decisão de prosseguir foi do fluxo. Watchdog usual: >30min sem mtime/CPU~0 → kill+resume.
+- Estado: RAM 71% livre no lançamento; flyctl ainda NÃO instalado (BG-1..4 continuam na mesa do Boss, ~1 tarde).
+
+## 2026-08-20 (manhã, cont.) — sisyphus T1 morreu por DB lock; site pitch tend LIVE no cluster
+
+- ⛔ **sisyphus T1 falhou no arranque**: "database is locked" — dois `opencode run` simultâneos competem pelo DB local; prometheus segurou o lock. Lição: **1 opencode run de cada vez** (ou sequenciar launches). Resume quando prometheus entregar. Brief preservado em tend-wt-t1/AGENT_BRIEF_T1.md.
+- 🎉 **tend.ramoneees.com LIVE no cluster** (pitch site p/ amigo/candidato a sócio): Claude Code (conta claude.ai própria, sem colisão c/ opencode) construiu 1 página pt-PT 15KB (design system exato: creme #FAF6F1, terracota #D97757, sem pedidos externos); wiring Hermes: apps/tend-website/ no olympus (padrão pack-website: ConfigMap+nginx:alpine 32Mi, IngressRoute, commit 59f7eca) → Flux → HTTPS 200, TLS ok, gzip 15KB→5KB. Fonte: ~/dev/tend-website/index.html.
+- ⛔ **Acesso externo pendente (Boss, 2 min)**: tend.ramoneees.com NÃO resolve fora de casa (wildcard só interno via AdGuard). Caminho de casa: tunnel weserve-tunnel (cloudflared) já serve packapp publicamente. Boss: CF Zero Trust → Tunnels → weserve → Public Hostname `tend` → http://tend-website.apps.svc.cluster.local:80. Sem token CF API no ambiente Hermes.
+- Prometheus W3 spec ainda a correr (validando free tier EAS: 15+15 builds/mês, queue 90+min, verificado contra docs.expo.dev).
