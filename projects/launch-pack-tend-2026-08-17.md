@@ -290,3 +290,10 @@ Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
 - Próximos passos: fila drena → confirmar upload no console (Boss) → merge #18 → release (5) → opt-in link + 12 testers (clock 14 dias) → fix i18n keys UI (achado #17) → captura mid-progress = follow-up.
 
 Pickup: `gh run list --limit 3` + estado dos PRs #16/#17/#18.
+
+## 2026-08-22 (fim da noite) — 🎉 PACK v1.0.0(6) DEPLOYED NO PLAY INTERNAL (desta vez é real)
+
+- ✅ **Merges**: #16 (validator+DIAG) → #18 (FFmpegKit crash fix + runner) → #17 (screenshots+smoke) → #19 (SDK 35 + maestro package fix; CI 7/7 após rerun de flake cold-start).
+- ✅ **Release v1.0.0(6) run verde 3/3** (run 32599623937): build 1m21s → upload 26s → **`Successfully committed 03358028916501970658`** — AAB no internal track, com targetSdk 35, package com.ramoneees.pack, crash fix dentro.
+- Correntes da noite (todas provadas em log): secret vazio/corrompido → re-seed byte-exact; package mismatch console↔AAB → código cedeu; target 34 < mínimo 35 → bump com suppress AGP; flows maestro com appId morto → fix; 1 flake cold-start → rerun.
+- **Próximo Boss**: Play Console → Internal testing → confirmar release 1.0.0(6) visível → opt-in link → instalar no Android → recrutar 12 testers (clock 14 dias). Follow-ups: retry policy maestro (flakes), fix i18n keys UI, captura mid-progress, screenshots console upload (docs/store-assets/play/phone/).
