@@ -277,3 +277,16 @@ Próximo comando da máquina: "prometheus W3 spec" quando Boss der go.
 - ⚠️ Stray do T1 finalmentte descartado: apps/mobile/package.json (scripts run:android/run:ios da run morta) — checkout limpo antes do pull. Se valer algo, ganha PR próprio.
 - ⏳ **Build IN_QUEUE** (free tier, 90+min possível). Quando verde: APK install no Android do Boss; keystore backup ritual (EAS Credentials → 3 valores → 1Password).
 - **Estado global tends**: API prod LIVE · main com W0-W3A · dogfood Expo Go pronto (Metro :8082) · build Android a cozer · iOS gated no enrollment Apple. Próximos marcos: APK verde → dogfood 2 semanas → W5 store.
+
+## 2026-08-22 (noite) — Pack Android: o dia em que o "internal LIVE" se revelou mentira (e se consertou)
+
+- ⛔ **Descoberta central**: o "v1.0.0 no Play internal" de 19/08 NUNCA existiu — `deploy-internal` falhava (secret SA corrompido→vazio) e `continue-on-error: true` pintava verde. Console Boss confirmou: zero AAB na app.
+- ✅ **PR #16** (fix/play-upload-signal): validator de credenciais SA (JSON+campos+DER parse, `SA_INVALID`/`SA_OK`) + passo DIAG (token mint, GET tracks, serviceusage) + `continue-on-error` morto. Secret re-seeded com chave nova do Boss (`< ficheiro` byte-exact; `VAR=$(cat f)` seeda VAZIO — checklist corrigido).
+- ✅ **Root cause #2**: package mismatch — app no console é **com.ramoneees.pack**, AAB era com.pack.app (DIAG: GET tracks 404 com token válido + API 200). applicationId alinhado no código (25d6c77); namespace com.pack fica; var ANDROID_PACKAGE_NAME atualizada.
+- ✅ **PR #17** (agent/play-screenshots, opencode 5.3): 7 screenshots Play 1080×2160 em docs/store-assets/play/phone/ + play-screenshots.sh reproduzível + suite smoke 24 testes instrumentados (2m17s local). **Achados críticos**: (1) build internal crasha em TODA conversão vídeo/áudio — fork ffmpeg-kit 8.1.7 sem smart-exception-java; (2) CI ui-test verde a correr 0 testes (sem testInstrumentationRunner); (3) PaywallView engolia falhas billing; (4) photo picker + is_pending=1.
+- ✅ **PR #18** (hotfix/ffmpegkit-crash): cherry-pick e83fca7 do #17 — fix do crash produção + runner. Merge antes do próximo release.
+- ⏳ **Release v1.0.0(4) re-disparado** (run 32596908487) atrás de fila de 6 runs (1 runner só; PRs #16/#17 dispararam CI). Sobe o build com o crash de vídeo conhecido — aceitável p/ provar encanamento + dogfood de fluxos foto; (5) já nasce com #18.
+- Lições: nunca transcrever chaves à mão (3× corrompi PEM; o CI é a prova); `gh secret set` lê stdin, env-var prefix é ignorado; job verde ≠ job correto (procurar continue-on-error); log de job in-progress não existe via gh — `gh run watch` ou esperar.
+- Próximos passos: fila drena → confirmar upload no console (Boss) → merge #18 → release (5) → opt-in link + 12 testers (clock 14 dias) → fix i18n keys UI (achado #17) → captura mid-progress = follow-up.
+
+Pickup: `gh run list --limit 3` + estado dos PRs #16/#17/#18.
