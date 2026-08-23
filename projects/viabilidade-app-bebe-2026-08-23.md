@@ -33,6 +33,12 @@ Premissas: conversão IAP 2-3%, eCPM interstitial tier-1 €5-8 / global €2,5-
 - Retenção é o jogo: app de som vive de DAU; ASO (ícones, screenshots, keywords) vale mais que features.
 - "Passivo" = ~2 fins de semana de build + ~2h/semana de manutenção e ASO. Sem marketing pago.
 
+## Testers pro gate do Play (rotas, sem depender de conhecidos)
+- **Grátis (reciprocidade):** app Testers Community (packs de 16 devs, 16 dias, mútuo) + r/AndroidClosedTesting + r/AndroidAppTesters. Dev que usou: 16 testers em 2 dias, ~60 no total.
+- **Pago gerenciado:** Testers Community $15 (15 testers) · PrimeTestLab $19.99 (12 testers, reposição no mesmo dia se alguém cair, 7.400+ apps) · TesterBee · gigs Fiverr (€10-30).
+- **Cuidados:** Google rastreia uso real — evitar bots baratos; mirar 15-25 testers (buffer); atualizar o app durante os 14 dias; o formulário de production access é onde mora a rejeição.
+- Estratégia: gate de 14 dias é tempo de calendário — sobrepor com polimento do app e preparação de ASO.
+
 ## Rota B (fogo lento, em paralelo)
 Ferramentas PT para freelancers (calculadora recibo verde etc.). Concorrência real: Doutor Financas, Unipeople, gov.pt — fracos em UX mas com domínio. SEO 12-24 meses. Só se o Boss quiser o second bet.
 
