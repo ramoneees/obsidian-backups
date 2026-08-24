@@ -297,3 +297,11 @@ Pickup: `gh run list --limit 3` + estado dos PRs #16/#17/#18.
 - ✅ **Release v1.0.0(6) run verde 3/3** (run 32599623937): build 1m21s → upload 26s → **`Successfully committed 03358028916501970658`** — AAB no internal track, com targetSdk 35, package com.ramoneees.pack, crash fix dentro.
 - Correntes da noite (todas provadas em log): secret vazio/corrompido → re-seed byte-exact; package mismatch console↔AAB → código cedeu; target 34 < mínimo 35 → bump com suppress AGP; flows maestro com appId morto → fix; 1 flake cold-start → rerun.
 - **Próximo Boss**: Play Console → Internal testing → confirmar release 1.0.0(6) visível → opt-in link → instalar no Android → recrutar 12 testers (clock 14 dias). Follow-ups: retry policy maestro (flakes), fix i18n keys UI, captura mid-progress, screenshots console upload (docs/store-assets/play/phone/).
+
+## 2026-08-24 — tend: build c86b0126 estava ERRORED há 4 dias; fix eas.json + rebuild disparado
+
+- ⚠️ **Causa raiz do c86b0126**: `ERR_PNPM_UNSUPPORTED_ENGINE` — imagem EAS traz pnpm 9.15.5, repo exige ≥10 (`packageManager: pnpm@10.0.0` + engines). Morreu em 2s no pnpm install. O build nunca cozeu; o dashboard não avisou ninguém (free tier não envia email de falha? verificar notificações).
+- ✅ **Fix (3 commits no main: 7494add → cbe5c74 → acd055a)**: pin nativo `"pnpm": "10.0.0"` nos 4 perfis do eas.json. Descoberta: eas.json novo schema **não tem hooks** — primeira tentativa (pre_install hook dentro do perfil, depois top-level) rejeitada pela CLI; verificado contra BuildProfileSchema do @expo/eas-json: campos nativos `pnpm`, `corepack`, `node`, `bun`, `yarn` existem por perfil. Tentativa intermediária (hook script) descartada.
+- ✅ **Rebuild disparado**: `7135a1bf-a2b0-43bd-a125-ff858e83c44b` (preview/android, keystore -FZSZvUa2_ reutilizada). Aos 6+ min: IN_PROGRESS, error null — sobreviveu à fase que matou o anterior em 2s (pnpm install passou). Watchdog cron a5ecc69d7dd5 (every 15m, hash-suppressed) entrega no chat quando mudar.
+- **Lição cron**: schedule "15m" = one-shot relativo; intervalo requer "every 15m". Repeat=0 = zero execuções.
+- **Estado tend**: API live · main acd055a · build Android a cozer · Metro :8082 MORTO (religar p/ Expo Go dogfood) · iOS gated no enrollment Apple.
