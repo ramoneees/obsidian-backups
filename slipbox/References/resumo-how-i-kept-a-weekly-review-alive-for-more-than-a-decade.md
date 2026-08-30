@@ -26,3 +26,7 @@ O twist final: pare de esperar o bloco perfeito de 60-90 minutos. **10 minutos c
 > "Act like my productivity coach. Ask me weekly review questions one at a time. After we finish, summarize everything in a bulleted list."
 
 > "The future should not be AI silently generating a report while you stay passive. The best version keeps you actively reflecting, while AI helps you notice patterns, connect dots, and summarize next steps."
+
+## Republicação (2026-08-30)
+
+A AE republicou este artigo em 2026-08-29 sob novo título e slug: **"My Weekly Review Has Lasted More Than a Decade. Here's Why."** — `https://www.asianefficiency.com/technology/why-weekly-review-lasted-decade/`. Conteúdo idêntico (checklist, 10 min com hard stop, quatro perguntas retro, maybe list, 80/20 + Rule of Three, batching, prompt de IA entrevistadora verbatim). Sem material novo — URL acima é a canônica atual.

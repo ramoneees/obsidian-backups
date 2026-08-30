@@ -26,3 +26,9 @@ Entre blocos de foco, o autor recomenda "Clear to Neutral": fechar abas, resetar
 > "Your productivity system is a supercar. The calendar, the workflows, the apps, the focus blocks: that's the car. Energy is the gas in the tank. You can have the perfect setup and still go nowhere if the tank is empty."
 
 > "More discipline is usually the wrong first move. Find the leak that makes good work harder than it needs to be."
+
+## Republicação (2026-08-30)
+
+A AE republicou este artigo sob novo título e slug: **"Why Your Perfect Calendar Still Leaves You Exhausted"** — `https://www.asianefficiency.com/technology/perfect-calendar-still-exhausted/` (Last updated: 2026-08-30). Corpo ~90% idêntico (TEA, supercarro/tanque, Energy Audit 24h/2h, quatro vazamentos, Clear to Neutral, horas não são iguais).
+
+**Delta novo da republicação**: gancho pessoal — a semana anual de conferência em Austin (hosting, eventos, social intenso) que "parece vitória por fora e esvazia por dentro". Ponto que vale guardar: *coisas agradáveis também drenam; se o dreno é recorrente, ele precisa de limites e um plano de recuperação* — nomear o dreno sazonal e colocar fronteiras antes de ele acontecer de novo, não depois.
