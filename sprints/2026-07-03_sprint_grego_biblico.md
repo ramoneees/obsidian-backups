@@ -5,7 +5,8 @@ end: 2026-07-16
 duration: 14 days
 focus: Estudo — Grego Bíblico
 modality: B (Equilibrada)
-status: planning
+status: closed
+closed_reason: grego encostado 02/09; 21 tarefas arquivadas no TickTick
 created: 2026-07-02
 ---
 
