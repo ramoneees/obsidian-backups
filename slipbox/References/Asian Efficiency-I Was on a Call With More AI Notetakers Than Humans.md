@@ -1,33 +1,35 @@
 ---
+source: Asian Efficiency
 title: "I Was on a Call With More AI Notetakers Than Humans"
-source: "Asian Efficiency"
-date: 2026-08-18
-url: "https://www.asianefficiency.com/technology/more-ai-notetakers-than-humans/"
-tags: [reference, technology, ai, reunioes]
-ingested: 2026-08-19
+author: Thanh Pham
+date: 2026-09-01
+url: https://www.asianefficiency.com/technology/ai-notetakers-on-a-call/
+category: productivity
+tags: [ai-notetakers, reunioes, automatizacao, consentimento, crm]
+ingested: 2026-09-02
+status: summary
 ---
 
 # I Was on a Call With More AI Notetakers Than Humans
 
-**Fonte:** Asian Efficiency
-**Data:** 18 de agosto de 2026
-**URL original:** https://www.asianefficiency.com/technology/more-ai-notetakers-than-humans/
+## Fonte
+
+- **Source**: Asian Efficiency
+- **Author**: Thanh Pham
+- **Published**: 2026-09-01
+- **URL**: https://www.asianefficiency.com/technology/ai-notetakers-on-a-call/
 
 ## Resumo
 
-Relato de calls com mais bots de IA do que humanos. O problema não é capturar a reunião — é o "cemitério de notas de reunião": transcrições e resumos acumulando na inbox sem virar ação. O vazamento real de produtividade é a falha em converter discussão em ação verificável.
+Thanh testava vários assistentes de reunião ao mesmo tempo e outras pessoas também tinham bots — num dado momento, **mais AI notetakers do que humanos na chamada**. Ponto central: as pessoas adicionam outro assistente por default; escolher ferramentas de reunião **de propósito**.
 
-## Notas principais
+- **O cemitério na inbox** — transcrições e resumos acumulam, são "pesquisáveis", mas quase nunca ninguém volta e faz algo. Captura sem próximo passo é só um arquivo mais bonito.
+- **Pedir primeiro, sempre** — "Are you okay if I use an AI notetaker for this call?" no convite ou em voz alta. Mesmo quem não se importa de ser gravado aprecia ser perguntado. Em 1:1 sensíveis, conversas médicas/legais, coaching: mais ainda.
+- **Bot × gravador local × plataforma** — bots são visíveis (fricção social); gravadores locais capturam áudio do computador sem bot (menos fricção, mais privacidade, identificação de falante pior); gravação nativa da plataforma quando já existe. Escolher um. Não colecionar assistentes como suvenir.
 
-- **Pipeline maduro para AI notetakers:** Transcript → Summary → **Actions** (quem prometeu o quê, até quando) → **System update** (empurrar ações para task manager/CRM/project app onde o trabalho acontece) → Human review (assistente rascunha, humano aprova).
-- "O resumo é o ponto de partida. A atualização do sistema é o trabalho."
-- Reuniões sem extração de ações = mesmo problema discutido de novo 2 meses depois.
-- **Três arquiteturas:** bot visível (fricção, mas melhor speaker ID), gravador local invisível (menos constrangimento, privacy melhor, speaker ID pior), ou recurso nativo da plataforma (evita adicionar mais um bot).
-- **Etiqueta:** pedir antes — "Tudo bem se eu usar um AI notetaker nesta call?" — especialmente em 1:1s sensíveis, conversas médicas, legais, coaching.
-- Pessoas podem se comportar diferente com assistente presente; revisão humana antes de oficializar.
-- Maior ROI do output: **CRM** — ninguém confia na memória para atualizar registro de cliente depois.
+## Key Takeaways
 
-## Conexões
-
-- Tópicos: [[AI notetakers]], [[meeting hygiene]], [[automação]], [[CRM]].
-- Dialoga com a série de IA operacional da AE ([[Asian Efficiency-The Knowledge Worker's AI Operating System- From Inbox to Deep Work to Done (TPS626W)|TPS626W]]).
+- Checklist pós-reunião: **transcript → summary → actions → system update → human review**. Não parar no resumo: extrair quem prometeu o quê até quando e empurrar no PM/task manager/CRM antes de fechar o laptop.
+- O vazamento não é discussão ruim — é discussão que nunca vira ação responsabilizável (decisão, dono, deadline).
+- **CRM como high-ROI**: assistente detecta contato novo, notas, timelines de compra e follow-ups; atualiza CRM ou cria lembrete automaticamente. "Parar de depender de memória depois de calls com cliente" — se lidera time, instalar primeiro.
+- **Content bank** — transcrições capturam testimonial, dores de cliente, histórias e insights para newsletters/podcasts/posts. Conversas que você já tem = material que está evaporando.
