@@ -16,7 +16,34 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 > **📌 UPDATE 2026-09-07**
 > - **Escritura pública: 23/09/2026 (quarta-feira), manhã — AINDA NÃO FECHADA** (data provisória; não marcar nada definitivo a jusante até confirmar)
 > - Orçamento mudanças recebido: **1.100€ full-service** (desmontagem/embalagem/transporte/montagem) — **data por confirmar com a empresa**
+> - D-day mudança: **por decidir — depende da disponibilidade da empresa** (hipótese de trabalho: 25/09, tag `waiting:data-mudança` no TickTick)
+> - Aviso ao senhorio (Uden): **só assim que a data da escritura for confirmada**
 > - Escola: já visitaram uma em Caldas — falta marcar visita formal + transferência. Boss liga hoje (07/09)
+> - TickTick: 87 tarefas do projeto 🏠 Mudança Caldas da Rainha **todas com datas** (calendário abaixo), aplicado 07/09
+
+## 📅 CALENDÁRIO OPERATIVO (datas TickTick, aplicado 2026-09-07)
+
+| Data | Foco |
+|---|---|
+| **seg 07/09** | 🔴 Ligar escola Caldas — visita + transferência |
+| **qua 09/09** | 🔴 Confirmar data escritura · 🔴 Fibra Caldas (cobertura) · Empresa mudanças: fechar data + caixas/materiais + dias embalagem/mudança/montagem |
+| **qui 10/09** | IMT + selo (valor) · 🔴 TR/AIMA mudança morada (cedo!) · Senhorio: gatilho = escritura confirmada |
+| **sex 11/09** | Internet: pedir instalação p/ dia D · Cobertura telemóvel |
+| **sáb 12/09** | Visitar apartamento (medições/fotos/contadores/gás) · Escola atual: saída + processo · Pediatra: relatório + vacinas |
+| **dom 13/09** | ✅ F0 fechada |
+| **ter 15/09** | EDP + SMAS (contratos) |
+| **qua 16/09** | Gás · ✅ F1 arranca |
+| **qui 17/09** | CTT reencaminhamento |
+| **sex 18/09** | 🔴 DECIDIR parto Lisboa vs Caldas · Elevador · Seguro carga · Entrega imóvel atual + caução · Coworking backup |
+| **seg 21/09** | 🔴 Docs escritura prontos · Rede plano saúde (se parto Caldas) |
+| **ter 22/09** | Extintor/detetor/kit · Berço+bebé confirmado · Internet: confirmar instalação |
+| **qua 23/09** | 🔴 **ESCRITURA (manhã)** → tarde: registo predial + caderneta + Finanças (morada fiscal) |
+| **qui 24/09** | D-1: desmontar DIY, dispositivos, docs/joias/medicação, frigorífico · Cascata moradas: SS, SNS, IMT (carta + DUA), bancos, Revolut/Wise/MBWay, contabilista, cartão crédito, seguro casa |
+| **sex 25/09** | 🔴 **D-DAY (hipótese)**: inventário caixas, fotos imóvel, leituras, doc transporte · Chegada: divisão caixas, sinistros, contadores, internet |
+| **sáb 26/09** | Firefly III (Casa Caldas) · Compras locais · Pressão água |
+| **seg 28/09 – sex 09/10** | F4: médico família, farmácia/hospital, supermercados, condomínio, chaves antigas + caução, matrícula escola (30/09 🔴), Câmara/IMI/dístico, IKEA Leiria, oficinas |
+| **qui 15/10 – sex 30/10** | F5 início: moradas subscrições (Amazon/Netflix/etc), facturas todas a chegar, extratos, cartões |
+| **natal/fim ano** | IRS morada fiscal · IMI · CTT cancelar reencaminhamento |
 
 ## Janela alvo
 
