@@ -112,8 +112,9 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 - [ ] Lista de farmácias próximas da nova casa (24h se aplicável)
 
 ### Criança (1º filho)
-- [ ] ✅~Pesquisar escolas/creches em Caldas~ → já viram uma escola (set/2026)
-- [ ] **Ligar para a escola em Caldas (07/09)** — marcar visita formal
+- [ ] ✅~Pesquisar escolas/creches em Caldas~ → escola escolhida para visita: **Colégio "O Brinquinho"**, Caldas da Rainha
+- [x] ✅ Ligar para a escola em Caldas (07/09) — **visita marcada: qui 10/09 às 10h** (evento no Calendar Home + tarefa TickTick 🔴)
+- [ ] **Visita Colégio O Brinquinho (10/09 10h)**: condições, vagas, processo de transferência
 - [ ] Escola/creche atual: comunicar saída e pedir transferência de processo
 - [ ] Caso particular do nosso filho: matrícula em escola primária / creche — confirmar calendário
 
