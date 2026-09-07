@@ -5,7 +5,7 @@ status: active
 created: 2026-08-11
 owner: Boss + Renatha
 target_city: Caldas da Rainha
-target_window: 1ª quinzena setembro 2026
+target_window: escritura 2026-09-23 (manhã); mudança ~25-26/09
 tags: [mudança, casa, caldas-da-rainha, familia, checklist]
 ---
 
@@ -13,9 +13,14 @@ tags: [mudança, casa, caldas-da-rainha, familia, checklist]
 
 Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do imóvel + escritura. Mudança full service com empresa (embala, transporta, monta). Veículo próprio vai junto. Sem eletrodomésticos grandes. Renatha em gestação (2ª). Trabalho remoto para ambos. Plano de saúde privado para os dois.
 
+> **📌 UPDATE 2026-09-07**
+> - **Escritura pública: 23/09/2026 (quarta-feira), manhã — AINDA NÃO FECHADA** (data provisória; não marcar nada definitivo a jusante até confirmar)
+> - Orçamento mudanças recebido: **1.100€ full-service** (desmontagem/embalagem/transporte/montagem) — **data por confirmar com a empresa**
+> - Escola: já visitaram uma em Caldas — falta marcar visita formal + transferência. Boss liga hoje (07/09)
+
 ## Janela alvo
 
-- **1ª quinzena de setembro 2026**
+- ~~1ª quinzena de setembro 2026~~ → **escritura 23/09 (qua, manhã)**; mudança na sequência (25-26/09 a confirmar)
 - Escritura + entrega das chaves deve coincidir (ou anteceder em 1-3 dias) o dia da mudança
 - Hipótese de contingência: se escritura atrasar, ter contrato assinado prevendo tolerância de Y dias para mudança
 
@@ -80,8 +85,9 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 - [ ] Lista de farmácias próximas da nova casa (24h se aplicável)
 
 ### Criança (1º filho)
+- [ ] ✅~Pesquisar escolas/creches em Caldas~ → já viram uma escola (set/2026)
+- [ ] **Ligar para a escola em Caldas (07/09)** — marcar visita formal
 - [ ] Escola/creche atual: comunicar saída e pedir transferência de processo
-- [ ] Pesquisar escolas/creches em Caldas (públicas e IPSS): vagas, datas de matrícula
 - [ ] Caso particular do nosso filho: matrícula em escola primária / creche — confirmar calendário
 
 ### Bebé a caminho (2º filho)
