@@ -2,6 +2,35 @@
 
 Pregação para jovens — rascunho preparado em 13/09/2026
 
+## Estrutura do sermão
+
+**1. Hook cinematográfico — Um Lugar Silencioso (2018), cena do prego**
+Evelyn desce a escala da adega, pisa o prego — atravessa o pé — e **não pode gritar**. A dor mais aguda dela acontece no silêncio mais absoluto (e complica: bolsa rompida, parto em silêncio, criatura em casa). A plateia toda segura a respiração junto.
+- **Ponte:** *"Quantos de vocês estão com o pé em cima de um prego agora — e ninguém sabe? O filme ensina a engolir o grito. O evangelho não. No filme, gritar é morte; nos Salmos, gritar é oração. Existe um silêncio que é medo e existe um silêncio que é comunhão. Elias descobriu o segundo."*
+- Subversão: o mundo do filme **impõe** silêncio por terror; Deus **convida** ao silêncio por presença. E no silêncio dele, ao contrário do filme, alguém fala — o cicio.
+- Opcional antes (30s): morte do Beau na abertura (estabelece as regras do mundo) — pesado por ser morte de criança; usar só como flashback curto. Alternativa sem violência: o homem que não consegue parar de chorar no refúgio (*Day One*, 2024) — o barulho te exila da comunidade.
+- Prático: clip de 2-3 min máx; confirmar cena/cues no disco antes.
+
+**2. Texto-base: 1 Reis 19.11-13 — Elias no Horebe**
+Elias em burnout, pedindo para morrer. Deus não vem no vento (espetáculo), nem no terremoto (urgência), nem no fogo (sensação) — vem no *cicio tranquilo e suave*. Os três primeiros têm tudo em comum com o feed: grandes, rápidos e irrelevantes. Apoio: Mc 1.35 (Jesus reservava o deserto de madrugada), Sl 46.10, Is 30.15.
+
+**3. Por que o silêncio importa — C.S. Lewis, Cartas de Screwtape, Carta 22 (1942)**
+> *"A música e o silêncio — como eu os detesto! (...) nem uma polegada de espaço infernal, nem um momento de tempo infernal foi entregue a essas forças abomináveis; tudo foi ocupado pelo Ruído — o Ruído, a grande dinâmica, a expressão audível de tudo o que é exultante, impiedoso e viril — o Ruído que sozinho nos defende dos escrúpulos tolos, das dúvidas desesperadoras e dos desejos impossíveis. Faremos do universo inteiro um ruído no fim. Já demos grandes passos nessa direção no que diz respeito à Terra."*
+- Arma escondida: o ruído **anestesia a consciência e o anseio por Deus** ("nos defende dos escrúpulos e desejos impossíveis"). O diabo não precisa matar; precisa manter ocupado.
+- Escrito em **1942** — antes do smartphone. Lewis viu o feed antes do feed. (Tradução livre; conferir na edição física antes de citar por escrito. Fonte: C.S. Lewis Official Substack, "Noise, the Grand Dynamism".)
+- Nota do Lewis que amarra ao filme: para Screwtape, **música e silêncio** são igualmente inimigos — o problema não é o som em si, é o que o som impede.
+
+**4. Os inimigos atuais do silêncio — dados + Liturgias Digitais**
+Ver secção "O problema em números" abaixo e as citações na ordem do arco:
+1. Diagnóstico — loc. 1189 ("incapazes de aceitar a tranquilidade ou o silêncio") → Lewis em 1942, James em 2022, o mesmo paciente.
+2. Mecânica — loc. 278 ("a internet das redes sociais é um ambiente litúrgico") + loc. 988 (a repetição remodela mente, desejos e crenças) → o scroll é culto; toda liturgia forma. A pergunta não é "quanto tempo" mas **"qual liturgia te está formando"**.
+3. Fuga — loc. 712 ("estamos logados para escapar do mundo") → Elias também fugiu; a diferença é que ele fugiu *para* ouvir.
+4. Sintoma — loc. 2451 ("a conectividade enfraqueceu a conexão") + os 42% sem controlo (la Caixa).
+5. A pergunta que fecha — loc. 1274: *"como essa tecnologia está me moldando exatamente agora?"*
+
+**5. Apelo**
+*"O silêncio não é o que falta. É o que foi expulso. E ninguém tira 6h38 do dia sem tirar de algum lugar."* Desafio concreto: 10 minutos de silêncio antes de desbloquear o telemóvel, cada dia desta semana. A voz de Deus estava lá o tempo todo; o que faltava era silêncio para ouvir.
+
 ## Base bíblica
 
 > Verificar textual na [[Cristão-Cristão-Bíblia Sagrada NVT]] antes de subir ao púlpito.
