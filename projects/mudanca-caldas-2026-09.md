@@ -21,6 +21,12 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 > - Escola: já visitaram uma em Caldas — falta marcar visita formal + transferência. Boss liga hoje (07/09)
 > - TickTick: 87 tarefas do projeto 🏠 Mudança Caldas da Rainha **todas com datas** (calendário abaixo), aplicado 07/09
 
+> **📌 UPDATE 2026-09-15**
+> - **Orçamento fechado: ~7.563€** (escritura ~6.463€ + mudança 1.100€) — detalhe na secção 💶 ORÇAMENTO abaixo
+> - IMT jovem (isenção parcial): 3.556,88€ · IS aquisição: 355,69€ · IS crédito (nunca isento): 2.250€ · Casa Pronta c/ redução jovem: ~250€
+> - Ramon 33 + Renatha 35 = **ambos elegíveis** ("igual ou inferior a 35"); ela só faz 36 em 2027 → sem risco
+> - Garantia pública exige crédito celebrado até 31/12/2026 — escritura 23/09 ✓ dentro do prazo
+
 ## 📅 CALENDÁRIO OPERATIVO (datas TickTick, aplicado 2026-09-07)
 
 | Data | Foco |
@@ -45,6 +51,35 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 | **qui 15/10 – sex 30/10** | F5 início: moradas subscrições (Amazon/Netflix/etc), facturas todas a chegar, extratos, cartões |
 | **natal/fim ano** | IRS morada fiscal · IMI · CTT cancelar reencaminhamento |
 
+## 💶 ORÇAMENTO (fechado 2026-09-15)
+
+**Casa: 375.000€ · ambos ≤35 anos · financiamento 100% c/ garantia pública (Estado garante 56.250€ = 15%)**
+
+| # | Item | Valor | Nota |
+|---|---|---:|---|
+| 1 | IMT (isenção parcial jovem) | 3.556,88€ | 8% só sobre 44.461€ acima de 330.539€ — Tabela II OfCirc 40129/2026 |
+| 2 | Imposto do Selo — aquisição | 355,69€ | 0,8% × 375k − dedução jovem (0,8% × 330.539€) — art. 7.º-A CIS |
+| 3 | Imposto do Selo — crédito | 2.250,00€ | 0,6% × 375k. **Nunca isento** — cobrado pelo banco |
+| 4 | Casa Pronta c/ redução jovem | ~250€ | 700€ − 450€ (DL 48-D/2024, art. 28.º/40 RERN) |
+| 5 | Documentos (certidões etc.) | ~50€ | |
+| | **Subtotal escritura** | **~6.463€** | |
+| 6 | Mudança full-service (desmonta/embala/transporta/monta) | 1.100,00€ | |
+| | **TOTAL** | **~7.563€** | |
+
+**Poupança vs. sem regime jovem: ~15.750€** (escritura seria ~22.237€).
+
+### Referências (valores 2026, Continente)
+
+- Isenção total IMT/IS até 330.539€; parcial 8% até 660.982€ (Tabela II, Ofício Circulado 40129/2026)
+- Redução emolumentos Casa Pronta: DL 48-D/2024 (isenção total só até ~330k — não se aplica; a redução de 450€ sim)
+- Garantia pública: imóvel ≤450k, crédito celebrado até **31/12/2026**, 1ª habitação própria e permanente
+- Caducidade: manter como habitação própria e permanente 6 anos, habitada em 6 meses (exceções legais cobrem nascimento/mudança emprego)
+- Piso inevitável: IMT parcial + IS crédito ≈ 5.807€ — não há regime que os reduza aos 375k
+
+### Fora do orçamento (avisar Boss quando surgirem)
+
+- Avaliação bancária do imóvel (~300€) · Seguro de vida (preferir mensal, não capitalizado) · Registos pós-escritura · Quaisquer obras
+
 ## Janela alvo
 
 - ~~1ª quinzena de setembro 2026~~ → **escritura 23/09 (qua, manhã)**; mudança na sequência (25-26/09 a confirmar)
@@ -58,7 +93,7 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 ### Compra / escritura
 - [ ] Confirmar data marcada para escritura pública
 - [ ] Levar para escritura: CC + NIF de ambos, comprovativo do sinal pago, CPCV, licença de habitação do imóvel, certificado energético, caderneta predial, comprovativo do crédito
-- [ ] Confirmar valor de IMT e imposto do selo a pagar (ver tabela progressiva —减免 até 101.917€)
+- [ ] Confirmar valor de IMT e imposto do selo a pagar ✅ fechado 15/09: IMT 3.556,88€ + IS 355,69€ + IS crédito 2.250€ (ver 💶 ORÇAMENTO)
 - [ ] Levar forma de pagamento do restante (cheque visado / transferência confirmada)
 - [ ] Pedir ao vendedor: certidão de não-dívida às Finanças e Segurança Social
 - [ ] Após escritura: registar imóvel na Conservatória (registro predial)
