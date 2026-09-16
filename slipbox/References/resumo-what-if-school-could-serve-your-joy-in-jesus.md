@@ -19,7 +19,7 @@ A conclusão desarma a segmentação secular/sagrado: seminário não é o únic
 
 - Direto pro contexto do Boss: dois filhos (um pequeno, outro a caminho) — a pergunta "pra que serve a escola?" deixa de ser teórica e vira decisão de família nos próximos anos.
 - É cruzamento teologia-filosofia no estilo que ele curte: etimologia, história das ideias e cosmovisão reformada aplicadas a algo banal (o calendário escolar).
-- Tese útil pra любом debate sobre educação: o problema não são as habilidades ensinadas, é o fim que elas servem — critério prático pra avaliar qualquer projeto educativo.
+- Tese útil pra qualquer debate sobre educação: o problema não são as habilidades ensinadas, é o fim que elas servem — critério prático pra avaliar qualquer projeto educativo.
 
 ## Frases notáveis
 

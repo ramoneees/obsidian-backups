@@ -16,4 +16,4 @@ A Ligonier, organização cristã reformada dedicada ao ensino bíblico, curou u
 - "The New Reformation Catechism on Human Sexuality" (Christopher J. Gordon) — Catecismo baseado no Catecismo de Heidelberg
 - "The Rise and Triumph of the Modern Self" (Carl R. Trueman) — Análise da revolução sexual como transformação do "eu"
 - "Gender Ideology" — Recurso adicional mencionado
-- Contexto: вопросы inimagináveis há 20 anos devido ao abandono da verdade objetiva
+- Contexto: questões inimagináveis há 20 anos devido ao abandono da verdade objetiva
