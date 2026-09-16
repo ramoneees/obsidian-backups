@@ -14,7 +14,7 @@ Evelyn desce a escala da adega, pisa o prego — atravessa o pé — e **não po
 **2. Texto-base: 1 Reis 19.11-13 — Elias no Horebe**
 Elias em burnout, pedindo para morrer. Deus não vem no vento (espetáculo), nem no terremoto (urgência), nem no fogo (sensação) — vem no *cicio tranquilo e suave*. Os três primeiros têm tudo em comum com o feed: grandes, rápidos e irrelevantes. Apoio: Mc 1.35 (Jesus reservava o deserto de madrugada), Sl 46.10, Is 30.15.
 
-**3. Por que o silêncio importa — C.S. Lewis, Cartas de Screwtape, Carta 22 (1942)**
+**3. Por que o silêncio importa — C.S. Lewis, [[Lewis-Cartas de um Diabo a seu Aprendiz|Cartas de Screwtape]], Carta 22 (1942)**
 > *"A música e o silêncio — como eu os detesto! (...) nem uma polegada de espaço infernal, nem um momento de tempo infernal foi entregue a essas forças abomináveis; tudo foi ocupado pelo Ruído — o Ruído, a grande dinâmica, a expressão audível de tudo o que é exultante, impiedoso e viril — o Ruído que sozinho nos defende dos escrúpulos tolos, das dúvidas desesperadoras e dos desejos impossíveis. Faremos do universo inteiro um ruído no fim. Já demos grandes passos nessa direção no que diz respeito à Terra."*
 - Arma escondida: o ruído **anestesia a consciência e o anseio por Deus** ("nos defende dos escrúpulos e desejos impossíveis"). O diabo não precisa matar; precisa manter ocupado.
 - Escrito em **1942** — antes do smartphone. Lewis viu o feed antes do feed. (Tradução livre; conferir na edição física antes de citar por escrito. Fonte: C.S. Lewis Official Substack, "Noise, the Grand Dynamism".)
