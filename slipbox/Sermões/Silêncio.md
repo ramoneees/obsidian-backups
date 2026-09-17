@@ -1,8 +1,46 @@
 # Silêncio
 
-Pregação para jovens — rascunho preparado em 13/09/2026
+Pregação para jovens — rascunho preparado em 13/09/2026 · esboço-guia ampliado em 17/09/2026 (Picard + dados consolidados de screen-time-2025.html)
 
-## Estrutura do sermão
+## Esboço da pregação (guia) — atualizado 17/09/2026
+
+Título de trabalho: **"O silêncio não é o que falta — é o que foi expulso"**
+Arco: definição → Jesus → fuga → inimigos (dados) → testemunho → apelo. Alvo: 35-40 min.
+
+**Bloco 0 — Hook: Um Lugar Silencioso, cena do prego (2-3 min)**
+Dor máxima, grito zero. Ponte: "Quantos estão com o pé em cima de um prego agora — e ninguém sabe?" No filme, gritar é morte; nos Salmos, gritar é oração. O filme impõe silêncio por terror; Deus convida ao silêncio por presença. (Detalhes e alternativas nas notas abaixo.)
+
+**Bloco 1 — O que é silêncio: a definição, com Picard (≈5 min)**
+- Ideia-força: silêncio não é ausência de som — é o fundo originário que o som interrompe. Não é o intervalo entre palavras; é aquilo de que as palavras são feitas. O ruído é que é a interrupção.
+- Picard (1948, antes do smartphone): "Nada mudou tanto a natureza do homem quanto a perda do silêncio."
+- Virada: se o silêncio é originário, não é fuga da vida — é onde a vida se ouve sem tradução. Prepara Elias.
+- Ver secção "Citações — Max Picard" abaixo.
+
+**Bloco 2 — Por que importa: Jesus defendia o silêncio na agenda (≈6 min)**
+- Mc 1.35 — ainda escuro, lugar deserto, de propósito. O silêncio não era o que sobrava na agenda de Jesus; era o que Ele reservava na agenda.
+- Lc 5.15-16 — quanto mais as multidões cresciam, mais Ele se retirava. Disciplina, não acaso.
+- Clímax: 1 Rs 19.11-13 (texto-base) — Deus não no vento (espetáculo), nem no terremoto (urgência), nem no fogo (sensação). Os três têm tudo em comum com o feed: grandes, rápidos e irrelevantes. Deus no cicio. No silêncio dele, ao contrário do filme, alguém fala.
+
+**Bloco 3 — Por que ignoramos: a fuga (≈5 min)**
+- Lewis, Screwtape, Carta 22 (1942): o Ruído anestesia a consciência e o anseio por Deus. O diabo não precisa matar; precisa manter ocupado.
+- James: "estamos logados para escapar do mundo" (loc. 712). Elias também fugiu — a diferença é que ele fugiu *para* ouvir.
+- Diagnóstico pastoral, não interrogatório: ninguém é raptado pelo ruído; nós o convidamos. O barulho não invade — é recebido.
+
+**Bloco 4 — Os inimigos do silêncio: os dados (≈8 min)**
+- Números na secção "O problema em números" (atualizada 17/09). Ordem que fere: o tamanho (Portugal 7h30/dia) → os jovens (adolescentes PT 6h42 ao fim de semana; mulheres 16-24: 6h33/dia) → a confissão (tudo auto-reportado = piso, não teto; 42% dos jovens PT sem controlo).
+- Arco das citações (Liturgias Digitais): diagnóstico (loc. 1189) → mecânica (loc. 278 + 988) → fuga (loc. 712) → sintoma (loc. 2451) → pergunta final (loc. 1274).
+- Fechar com a pergunta: *"como essa tecnologia está me moldando exatamente agora?"*
+
+**Bloco 5 — Testemunho pessoal: como o silêncio pôs as coisas no lugar (≈6 min)**
+- Andaime: ANTES (como era o meu ruído) → O ROMPER (o momento concreto em que o silêncio me alcançou — madrugada, carro desligado; especificidade é o que convence) → O DEPOIS (nomear as 2-3 coisas que se reordenaram).
+- Regra: o testemunho é a prova viva do Bloco 1 — o silêncio como fundo onde a vida se ouve sem tradução.
+
+**Bloco 6 — Apelo (≈3 min)**
+- "O silêncio não é o que falta. É o que foi expulso. E ninguém tira 6h38 do dia sem tirar de algum lugar."
+- Desafio concreto: 10 minutos de silêncio antes de desbloquear o telemóvel, cada dia desta semana.
+- Opcional nuclear: 60 segundos de silêncio total ao vivo antes da oração final. Ninguém esquece uma pregação que se cala.
+
+## Detalhes por bloco (rascunho de 13/09/2026)
 
 **1. Hook cinematográfico — Um Lugar Silencioso (2018), cena do prego**
 Evelyn desce a escala da adega, pisa o prego — atravessa o pé — e **não pode gritar**. A dor mais aguda dela acontece no silêncio mais absoluto (e complica: bolsa rompida, parto em silêncio, criatura em casa). A plateia toda segura a respiração junto.
@@ -52,19 +90,36 @@ Média diária de tempo de ecrã (internet, todos os dispositivos) — dados GWI
 | **Mundo** | **6h38** | ~42% do tempo acordado; 3h46 só no telemóvel |
 | **Portugal** | **≈7h30** | 14º lugar mundial; telemóvel ≈48% do tempo |
 | **Europa** | sem número único | Norte/Oeste abaixo da média global (UK 5h36, Espanha 5h40, Alemanha 5h28); Sul acima |
-| **Brasil** | **9h13** | 2º lugar mundial, só atrás da África do Sul (9h24); 5h12/dia só no telemóvel |
+| **Brasil** | **9h13** | 2º lugar mundial, só atrás da África do Sul (9h37); 5h12/dia só no telemóvel |
 
 Para o público jovem (18-25):
 
 - **Portugal, jovens adultos (20-24 anos):** **5h35/dia no telemóvel** — sendo 2h40 em redes sociais (Instagram, TikTok), 2h27 em mensagens, 1h31 vídeos/séries e ~30min jogos. Mulheres: 5h50; homens: 5h20 (Observatório Social "la Caixa"/ISCTE, N=600, 2023)
 - **O dado que corta:** 30,1% destes jovens admitiram uso "problemático" do telemóvel; 42% dizem não ter (ou ter pouco) controlo sobre o uso; entre os de uso problemático, 41,9% têm bem-estar baixo. E o bem-estar despenca para quem passa **mais de 8h/dia** no telemóvel
-- **Mundo, jovens 16-24:** 42h53/semana (mulheres) e 39h15/semana (homens) de mídia online ≈ **5h36 a 6h07/dia** — a faixa etária com maior tempo de ecrã de todas, vs 19h30/semana dos 65+ (GWI, DataReportal Mid-Year 2026). Em telas no agregado, a Gen Z passa ~9h/dia
+- **Adolescentes 13-18 (Flash Eurobarómetro, CE, jun 2026, N≈26 mil):** UE — 4h30/dia em dia de escola, 6h06/dia ao fim de semana; **Portugal — 6h42/dia ao fim de semana**, acima da média europeia; líder da UE: Suécia, 7h18
+- **Mundo, jovens 16-24:** **6h33/dia (mulheres) e 5h36/dia (homens)** — 45h52 e 39h15 por semana, respetivamente; a faixa etária com maior tempo de ecrã de todas, vs 19h30/semana dos 65+ (GWI Q4 2025 via DataReportal Mid-Year 2026, nova metodologia). Nota: a Backlinko contradiz-se no valor feminino (42h53 no texto vs 45h52 na tabela) — usa-se a tabela. Em telas no agregado, a Gen Z passa ~9h/dia
 - **Brasil:** média específica 18-25 não localizada em fonte citável — o número seguro é o geral do país: 9h13/dia (2º lugar mundial, todas as idades 16-64). Como o Brasil já lidera entre adultos de todas as idades, a faixa jovem não é menor
 - **Europa:** não existe média única europeia 18-25 em fonte citável; o benchmark europeu é o limiar da OCDE — mais de 5h/dia de telas para fins pessoais já se associa a probabilidade marcadamente maior de mau bem-estar. Os jovens portugueses (5h35 só no telemóvel) já estão acima desse limiar antes de somar computador e TV
 
 **Como citar com rigor:** "Segundo o relatório Digital 2025 (DataReportal/We Are Social, dados GWI), o utilizador de internet passa em média 6h38 por dia online; em Portugal são cerca de 7h30; no Brasil, mais de 9h — praticamente metade do tempo acordado. E entre os jovens adultos portugueses, só o telemóvel já leva 5h35 por dia (Observatório 'la Caixa')."
 
+**Adolescentes, para citar de cor:** "Entre os adolescentes portugueses de 13 a 18, o ecrã leva 6h42 por dia ao fim de semana — acima da média europeia de 6h06 (Flash Eurobarómetro, jun 2026)."
+
 **Ângulo para o sermão:** o silêncio não é o que falta — é o que foi expulso. Ninguém tira 6h38 do dia sem tirar de algum lugar; o primeiro lugar que esvazia é o silêncio.
+
+## Citações — Max Picard, O Mundo do Silêncio (1948)
+
+A espinha dorsal filosófica da pregação (definida em 17/09/2026). Picard, pensador suíço cristão, escreveu vendo o mundo reconstruir-se sobre alto-falantes depois da guerra.
+
+- **Tese central:** o silêncio é uma realidade originária, preexistente e eterna — não o intervalo entre os sons, mas aquilo de que os sons são feitos. A palavra nasce do silêncio e a ele retorna.
+- **A frase de 1948:** "Nada mudou tanto a natureza do homem quanto a perda do silêncio." — escrita antes do smartphone existir. O ecrã não criou a fuga; industrializou-a.
+- **Definição destilada (3 registos, escolher no púlpito):**
+  - Ontológico: "Silêncio não é a ausência de som, mas aquilo de que o som é feito — a realidade originária que o ruído interrompe."
+  - Epistémico: "Silêncio é o que resta quando o dizível se esgota." (eco de Wittgenstein, Tractatus 7: "Sobre o que não se pode falar, deve-se calar")
+  - Vernáculo: "Silêncio é a palavra que se recusa a sair até valer mais dentro do que fora."
+- **Ponte pastoral:** no silêncio aparecem as coisas — as contas por fazer, as mágoas por tratar, a voz de Deus por atender. O ruído é anestesia; o silêncio é consulta. Liga direto a Screwtape (o Ruído que "nos defende dos escrúpulos tolos e dos desejos impossíveis") e a 1 Rs 19.
+- **Ponte com o filme:** para Picard, o silêncio não é mudo — é o fundo de onde toda voz verdadeira nasce. No mundo do filme, silêncio = ausência de monstro; no Horebe, silêncio = presença de Deus.
+- Aprofundar: Max Picard, *Die Welt des Schweigens* (1948); "La metafísica del silencio como una filosofía integral en Max Picard" (SciELO Colombia, 2021); "Max Picard e Søren Kierkegaard: o valor do silêncio" (ANPOF). Nota: citações em PT são tradução livre — conferir edição antes de citar por escrito.
 
 ## Citações — Liturgias Digitais ([[James-Liturgias digitais]])
 
@@ -129,5 +184,7 @@ Consultados em 13/09/2026:
 11. Dinheiro Vivo/DN (mar/2023) — cobertura do estudo la Caixa — https://dinheirovivo.dn.pt/mais-de-30-dos-jovens-portugueses-consideram-ter-utilizacao-problematica-do-telemovel-16023046.html
 12. DataReportal — Digital 2026 Mid-Year Global Update (idades 16-24: 42h53/sem mulheres, 39h15/sem homens) — https://datareportal.com/reports/digital-2026-mid-year-global-update-report (via Backlinko: https://backlinko.com/screen-time-statistics)
 13. Backlinko — Revealing Average Screen Time Statistics for 2026 — https://backlinko.com/screen-time-statistics
+14. Flash Eurobarómetro — Impact of excessive screen time and social media on young people's mental health (Comissão Europeia, jun 2026, N≈26 mil)
+15. Dados consolidados e verificados em ~/.hermes/workspace/screen-time-2025.html (3 painéis: país · idade/sexo · adolescentes 13-18; consultado 17/09/2026)
 
-> Nota metodológica: o dataset GWI/DataReportal mede tempo diário usando a **internet** em todos os dispositivos (utilizadores 16-64). Tempo total de ecrã (com TV offline) é maior em todos os países. Não misturar números de fontes diferentes no mesmo gráfico.
+> Nota metodológica: o dataset GWI/DataReportal mede tempo diário usando a **internet** em todos os dispositivos (utilizadores 16-64). Tempo total de ecrã (com TV offline) é maior em todos os países. Não misturar números de fontes diferentes no mesmo gráfico. Todos os valores são auto-reportados — **piso, não teto**: os dispositivos registam mais (uso pastoral: ninguém é raptado pelo ruído; a pessoa sabe e subestima). A "queda" da média global de 6h38 (metodologia antiga) para 4h45 (GWI Q4 2025, nova metodologia) é **metodológica, não comportamental** — não citar como melhora.
