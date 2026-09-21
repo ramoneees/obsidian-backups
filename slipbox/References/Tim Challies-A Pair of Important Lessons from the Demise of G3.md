@@ -2,6 +2,7 @@
 title: "A Pair of Important Lessons from the Demise of G3"
 source: https://www.challies.com/articles/a-pair-of-important-lessons-from-the-demise-of-g3/
 date: 2026-09-21
+ingested: 2026-09-21
 tags: [teologia, igreja, lideranca, pecado]
 ---
 

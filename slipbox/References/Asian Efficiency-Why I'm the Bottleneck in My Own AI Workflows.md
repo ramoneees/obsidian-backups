@@ -2,6 +2,7 @@
 title: "Why I'm the Bottleneck in My Own AI Workflows"
 source: https://www.asianefficiency.com/technology/bottleneck-in-ai-workflows/
 date: 2026-09-21
+ingested: 2026-09-21
 tags: [ia, produtividade, agentes, fluxo-de-trabalho]
 ---
 

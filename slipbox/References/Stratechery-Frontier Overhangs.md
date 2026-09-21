@@ -2,6 +2,7 @@
 title: "Frontier Overhangs"
 source: https://stratechery.com/2026/frontier-overhangs/
 date: 2026-09-21
+ingested: 2026-09-21
 tags: [ia, estrategia, antropia, teoria-de-negocios]
 ---
 
