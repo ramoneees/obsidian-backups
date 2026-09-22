@@ -1,8 +1,12 @@
 ---
-title: "Jev introduz uma nova forma de LLM — System One, aka Decision Models"
-source: https://simonwillison.net/2026/Sep/21/jev/
-date: 2026-09-22
+source: "Simon Willison"
+title: "Jev introduces a new shape of LLM - System One, aka Decision Models"
+date: 2026-09-21
+url: https://simonwillison.net/2026/Sep/21/jev/
+author: "Simon Willison"
+category: "Blog"
 tags: [ia, llms, machine-learning, arquitetura]
+ingested: 2026-09-22
 ---
 
 A TypeSafe AI lançou o Jev, primeiro de uma nova categoria que eles chamam de "modelos System One" — Willison prefere o nome "decision models", emprestado da Maggie Appleton. A forma é inusitada: entrada em texto como qualquer LLM, mas a saída não é texto — são números de ponto flutuante correspondendo a categorias, respostas sim/não, notas e scores de confiança. Em palavras deles: "estado não estruturado entra, decisões probabilísticas tipadas saem."

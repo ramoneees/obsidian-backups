@@ -1,8 +1,12 @@
 ---
-title: "MCP was always a bad idea? — comentário de Simon Willison"
-source: https://simonwillison.net/2026/Sep/20/hn-49779718/
-date: 2026-09-22
+source: "Simon Willison"
+title: "MCP was always a bad idea?"
+date: 2026-09-20
+url: https://simonwillison.net/2026/Sep/20/hn-49779718/
+author: "Simon Willison"
+category: "Blog"
 tags: [mcp, ia-agentes, devops, arquitetura]
+ingested: 2026-09-22
 ---
 
 Willison responde no Hacker News a um artigo que declara o MCP (Model Context Protocol) obsoleto — a tese sendo que agentes de terminal com acesso total à internet (Claude Code, Codex e afins) não precisam de uma camada de protocolo para chamar APIs. Ele discorda: a premissa só vale para o canto mais "YOLO" do ecossistema. Para qualquer sistema que precise de limites, o MCP resolve exatamente os problemas difíceis.

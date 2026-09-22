@@ -1,8 +1,12 @@
 ---
-title: "A Love Song for the People of God — How to Preach the Song of Solomon"
-source: https://www.desiringgod.org/articles/a-love-song-for-the-people-of-god
+source: "Desiring God"
+title: "A Love Song for the People of God"
 date: 2026-09-22
+url: https://www.desiringgod.org/articles/a-love-song-for-the-people-of-god
+author: "Douglas Sean O'Donnell"
+category: "Article"
 tags: [teologia, hermeneutica, antigotestamento, preguica-nao-pregacao]
+ingested: 2026-09-22
 ---
 
 Douglas Sean O'Donnell parte de um fato curioso: todo pastor tem pregado Romanos, um Evangelho, Salmos — quase ninguém pregou Cantares de Salomão inteiro. Dois motivos: é um texto difícil ("praticamente todo versículo apresenta desafios de texto, filologia, imagem, gramática ou estrutura") e um texto constrangedor — como pregar poesia erótica num culto com adolescentes e viúvas?
