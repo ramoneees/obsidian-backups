@@ -2,7 +2,7 @@
 source: "Asian Efficiency"
 title: "Why I Stay in a Small Apartment"
 date: 2026-09-24
-url: https://www.asianefficiency.com/technology/why-stay-in-small-apartment/
+url: https://www.asianefficiency.com/habits/why-stay-in-small-apartment/
 author: "Thanh Pham"
 category: "Technology"
 tags: [produtividade, minimalismo, foco, energia, finanças]
@@ -13,7 +13,7 @@ ingested: 2026-09-24
 
 **Fonte:** Asian Efficiency
 **Data:** 24 de setembro de 2026
-**URL:** https://www.asianefficiency.com/technology/why-stay-in-small-apartment/
+**URL:** https://www.asianefficiency.com/habits/why-stay-in-small-apartment/
 
 ## Resumo
 

@@ -3,6 +3,7 @@ title: "Change Your Calendar Default to 30 Minutes"
 source: https://www.asianefficiency.com/technology/change-calendar-default-30-minutes/
 date: 2026-09-24
 tags: [produtividade, reunioes, calendario]
+ingested: 2026-09-25
 ---
 
 Seis pessoas em uma reunião de uma hora custam seis horas de capital humano — e quase ninguém faz essa conta. O teste do artigo é brutal: você entra no Ponto A; se não sai no Ponto D (decisão tomada, projeto movido), a reunião falhou — por mais agradável que tenha sido.

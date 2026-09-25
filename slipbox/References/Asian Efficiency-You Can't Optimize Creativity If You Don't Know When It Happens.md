@@ -3,6 +3,7 @@ title: "You Can't Optimize Creativity If You Don't Know When It Happens"
 source: https://www.asianefficiency.com/technology/optimize-creativity-when-it-happens/
 date: 2026-09-24
 tags: [produtividade, criatividade, ia]
+ingested: 2026-09-25
 ---
 
 Hackathon, prompt "build anything". Resultado: sala congelada. A criatividade não apareceu porque havia opções demais, não de menos. Quando o host impôs três opções com caixa fechada, todo mundo começou a resolver problema real. Lição: "pode ser qualquer coisa" vira "não é nada" — projeto sem caixa mora na cabeça por semanas.
