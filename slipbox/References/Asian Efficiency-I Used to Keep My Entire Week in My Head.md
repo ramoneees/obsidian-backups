@@ -2,18 +2,20 @@
 source: "Asian Efficiency"
 title: "I Used to Keep My Entire Week in My Head"
 date: 2026-09-24
-url: https://www.asianefficiency.com/schedule-management/keep-entire-week-in-head/
+url: https://www.asianefficiency.com/technology/keep-whole-week-in-head/
 author: "Thanh Pham"
-category: "Schedule Management"
+category: "Technology"
 tags: [gtd, calendario, revisao-semanal, atencao, multiplas-funcoes]
 ingested: 2026-09-25
 ---
+
+Nota: artigo republicado pela Asian Efficiency com slug/categoria alternativos (`technology/keep-whole-week-in-head`, 25/set, título "I Used to Keep the Whole Week in My Head") — mesmo conteúdo; URL canônica atualizada.
 
 # I Used to Keep My Entire Week in My Head
 
 **Fonte:** Asian Efficiency
 **Data:** 24 de setembro de 2026
-**URL:** https://www.asianefficiency.com/schedule-management/keep-entire-week-in-head/
+**URL:** https://www.asianefficiency.com/technology/keep-whole-week-in-head/
 
 ## Resumo
 
@@ -25,6 +27,7 @@ A viria prática de Thanh: transformar ações recorrentes em eventos recorrente
 
 - **Auditoria do recorrente:** liste tudo que sua semana gasta só *lembrando*. Mova para slots recorrentes no calendário ou task list. Comece com um item se precisar.
 - **Externalizar memória é de baixo esforço e alto impacto** — a definição clássica de "cabeça como espaço de pensamento, não de armazenamento" (David Allen), aplicada.
+- **Front-load Monday/Tuesday:** completar 50–60% das tarefas-chave até terça, de propósito. A segunda metade leve é buffer natural — uma criança doente ou pedido urgente não derruba a semana. "É assim que se constrói flexibilidade: na frente da semana."
 - **Planejamento semanal ≠ lista de tarefas:** a sessão semanal deve *desenhar um sistema que sustenta seus múltiplos papéis*, não renegociar workout/conta/reunião toda semana. Automatize o óbvio; proteja tempo para estratégia de alto nível.
 - Profissionais e pais com "mais chapéus que horas" tendem a resolver jugglando mais rápido (só ficam mais ocupados). O caminho é planejar mais esperto.
 
