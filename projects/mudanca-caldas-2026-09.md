@@ -27,7 +27,17 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 > - Ramon 33 + Renatha 35 = **ambos elegíveis** ("igual ou inferior a 35"); ela só faz 36 em 2027 → sem risco
 > - Garantia pública exige crédito celebrado até 31/12/2026 — escritura 23/09 ✓ dentro do prazo
 
-## 📅 CALENDÁRIO OPERATIVO (datas TickTick, aplicado 2026-09-07)
+> **📌 UPDATE 2026-09-30 (fonte: Boss)**
+> - **Escritura MOVIDA: 23/09 → sex 09/10/2026, manhã — REAGENDADA** (motivo: faltava documentação). Férias até 06/10; voo Viena 07/10 08:05, regresso 08/10 22:10 → escritura na manhã seguinte.
+> - **D-day mudança: EM DEFINIÇÃO** (hipótese sáb 11/10, aguardando disponibilidade da empresa) — antigo evento 01/10 no calendário removido.
+> - **Escola: FECHADA** ✅ — escola nova vista e **matrícula feita**; início do Martim depende da mudança se concretizar.
+> - **Senhorios: AVISADOS** ✅ (Uden).
+> - **Empacotamento em curso**: ✅ escritório, estúdio, quarto do casal · falta: cozinha + quarto do Martim (deixar por último).
+> - **Em curso**: fechar data para montagem/arranjo dos boxes.
+> - **Tinta: IDENTIFICADA** 🎯 — Robbialac **REP Semi-Acetinado** (Ref. 064; rótulo parcial "…bbialac / …EMI-ACETINADO / EP" + SKU oficial confirmado na loja Robbialac). Nota: "semi-acetinado" = grau semi-mate. Cor: branca, **provável BRANCO 0001 (cor pronta)** — etiqueta branca junto à tampa do balde tem o código exato (foto macro); alternativa: scan-match num lascado de parede em loja Robbialac/CIN. Emails: zero rastro de compra (presencial ou via senhorio).
+> - TickTick: projeto congelado (decomissão pendente, 77 tarefas legadas com datas caducadas) — **plano vivo = este ficheiro + calendário + Apple Reminders**.
+
+## 📅 CALENDÁRIO OPERATIVO — HISTÓRICO (pré-escritura 23/09; substituído pelo UPDATE 2026-09-30)
 
 | Data | Foco |
 |---|---|
