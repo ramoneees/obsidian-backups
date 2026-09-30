@@ -34,7 +34,7 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 > - **Senhorios: AVISADOS** ✅ (Uden).
 > - **Empacotamento em curso**: ✅ escritório, estúdio, quarto do casal · falta: cozinha + quarto do Martim (deixar por último).
 > - **Em curso**: fechar data para montagem/arranjo dos boxes.
-> - **Tinta: IDENTIFICADA** 🎯 — Robbialac **REP Semi-Acetinado** (Ref. 064; rótulo parcial "…bbialac / …EMI-ACETINADO / EP" + SKU oficial confirmado na loja Robbialac). Nota: "semi-acetinado" = grau semi-mate. Cor: branca, **provável BRANCO 0001 (cor pronta)** — etiqueta branca junto à tampa do balde tem o código exato (foto macro); alternativa: scan-match num lascado de parede em loja Robbialac/CIN. Emails: zero rastro de compra (presencial ou via senhorio).
+> - **Tinta: RESOLVIDA** ✅ — Robbialac **REP Branco, cor pronta** (semi-mate/semi-acetinado). Confirmado via Leroy Merlin: Ref 5L **15451702** (79,89€ · 15,98€/L) · 1L **15451695** (18,89€) · 15L **15774430** (183,90€). Rendimento 12 m²/L. **Medição pixel (30/09, foto 2022)**: ref branca no quadro neutra (232,232,232) vs parede Δ(R−B) +7-8 na zona iluminada → branco suavemente quente; cor pronta cai para ~40%, provável branco tintado suave (família Leite). **Teste decisivo 30s**: desapertar plaquinha de tomada — borda de tinta atrás dela tem a cor exata; se creme → levar a placa à Robbialac p/ scan-match grátis. Retoques ANTES do dia da desmontagem.
 > - TickTick: projeto congelado (decomissão pendente, 77 tarefas legadas com datas caducadas) — **plano vivo = este ficheiro + calendário + Apple Reminders**.
 
 ## 📅 CALENDÁRIO OPERATIVO — HISTÓRICO (pré-escritura 23/09; substituído pelo UPDATE 2026-09-30)
