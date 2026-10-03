@@ -1,8 +1,12 @@
 ---
 title: "Linger Awhile and Delight in God"
-source: https://www.desiringgod.org/articles/linger-awhile-and-delight-in-god
-date: 2026-10-03
+source: Desiring God
+date: 2026-10-02
+url: https://www.desiringgod.org/articles/linger-awhile-and-delight-in-god
+author: Jonathon Woodyard
+category: Article
 tags: [teologia, devocional, meditacao, atencao]
+ingested: 2026-10-03
 ---
 
 Jonathon Woodyard ataca o pressuposto mais sagrado da cultura de produtividade: a velocidade. Numa era de manchetes skimmadas, resumos no lugar de livros e scrolling infinito, "linger" — demorar para sair de algo — virou disciplina rara. E o argumento não começa pela Bíblia, começa pela ciência: Galileu passou dezoito meses observando manchas solares antes de confirmar Copérnico. As revoluções do conhecimento nascem de observação sustentada, não de insight instantâneo. Ele não mudou o mundo porque correu; mudou porque esperou o sol aparecer.
