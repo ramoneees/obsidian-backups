@@ -1,8 +1,12 @@
 ---
-title: "Works & Wonders: Eclipse Chasing, Gilded Mansions, and More"
-source: https://www.challies.com/articles/works-wonders-oct-4/
+title: "Works & Wonders (Oct 4)"
+source: Tim Challies
 date: 2026-10-04
+url: https://www.challies.com/articles/works-wonders-oct-4/
+author: Tim Challies
+category: Articles
 tags: [teologia, devocional, cultura]
+ingested: 2026-10-04
 ---
 
 A coluna semanal do Challies abre com um devocional sobre a sabedoria como atributo comunicável de Deus: pode ser nossa, mas só se recebida das mãos dEle e nos termos dEle. Não se conjura de dentro, não se ganha, não se merece — desce de cima, distribuída por graça.

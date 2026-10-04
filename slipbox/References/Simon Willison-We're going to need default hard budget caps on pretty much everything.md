@@ -1,8 +1,12 @@
 ---
-title: "We’re going to need default hard budget caps on pretty much everything"
-source: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+title: "We're going to need default hard budget caps on pretty much everything"
+source: Simon Willison
 date: 2026-10-04
+url: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+author: Simon Willison
+category: ai
 tags: [ia, coding-agents, devops, custos]
+ingested: 2026-10-04
 ---
 
 Tese do Willison: serviços pay-as-you-go precisam de hard budget caps como padrão. Depois de $X no mês, o serviço corta e retorna erro. Caps “moles” — aquele email de aviso — não resolvem nada, porque o estrago acontece enquanto você dorme e o email só chega de manhã, junto com a conta.

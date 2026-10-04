@@ -1,8 +1,12 @@
 ---
 title: "I Used to Think Fun Was a Waste of Time"
-source: https://www.asianefficiency.com/productivity/fun-isnt-a-waste-of-time/
-date: 2026-10-04
+source: Asian Efficiency
+date: 2026-10-03
+url: https://www.asianefficiency.com/productivity/fun-isnt-a-waste-of-time/
+author: Thanh Pham
+category: Mindsets
 tags: [produtividade, habitos, descanso]
+ingested: 2026-10-04
 ---
 
 O Thanh conta a virada: nos anos de crescimento do negócio, filtrava tudo por utilidade — networking? cresce o negócio? descanso era tempo desperdiçado. Hoje defende o oposto: atividades feitas puramente por prazer são essenciais para a felicidade, e é a felicidade que alimenta a produtividade, não o contrário.
