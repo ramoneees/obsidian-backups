@@ -1,8 +1,12 @@
 ---
 title: "pwasm 0.2a0 — um motor WebAssembly em Python puro, todo vibe-coded"
-source: https://simonwillison.net/2026/Oct/1/pwasm/
+source: Simon Willison
+url: https://simonwillison.net/2026/Oct/1/pwasm/
+author: Simon Willison
+category: python
 date: 2026-10-06
 tags: [ia, vibe-coding, python, webassembly]
+ingested: 2026-10-06
 ---
 
 Simon Willison retomou um dos seus "folly projects": pwasm, um motor WebAssembly escrito inteiramente em Python puro — e inteiramente vibe-coded, construído em janeiro durante o primeiro surto de "AI mania" do ano. O projeto ficou parado desde então.

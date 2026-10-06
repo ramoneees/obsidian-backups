@@ -1,8 +1,12 @@
 ---
 title: "Quoting Felix Rieseberg — Cowork move o sandbox do desktop pra nuvem"
-source: https://simonwillison.net/2026/Oct/5/felix-rieseberg/
+source: Simon Willison
+url: https://simonwillison.net/2026/Oct/5/felix-rieseberg/
+author: Simon Willison
+category: claude
 date: 2026-10-06
 tags: [ia, agentes, anthropic, arquitetura]
+ingested: 2026-10-06
 ---
 
 Felix Rieseberg, da Anthropic, explicou a mudança de arquitetura do Claude Cowork — e Simon Willison colecionou a citação, que vale como documento de direção de produto para agentes.

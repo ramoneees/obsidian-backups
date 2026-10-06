@@ -1,8 +1,12 @@
 ---
 title: "Ed Sheeran Proves Trueman Right: We All Live in Marx's World Now"
-source: https://www.challies.com/articles/ed-sheeran-proves-trueman-right-we-all-live-in-marxs-world-now/
+source: Tim Challies
+url: https://www.challies.com/articles/ed-sheeran-proves-trueman-right-we-all-live-in-marxs-world-now/
+author: Tim Challies
+category: Articles
 date: 2026-10-05
 tags: [teologia, cultura, carl-trueman, marxismo]
+ingested: 2026-10-05
 ---
 
 Ed Sheeran virou estudo de caso em tempo real sobre politicização. Macklemore, abrindo show dele, transformou o palco em comício ("Free Palestine"), foi cortado da turnê por pressão das casas de shows — e aí vieram os outros artistas de abertura e até os próprios músicos de apoio do Sheeran. Um dos artistas mais populares do planeta ficou isolado num palco em Filadélfia. O crime dele? Tentar ficar neutro.

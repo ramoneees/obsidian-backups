@@ -1,8 +1,12 @@
 ---
 title: "When the Word Became English — Five Hundred Years of Tyndale's New Testament"
-source: https://www.desiringgod.org/articles/when-the-word-became-english
+source: Desiring God
+url: https://www.desiringgod.org/articles/when-the-word-became-english
+author: Leland Ryken
+category: Articles
 date: 2026-10-06
 tags: [teologia-reformada, reforma, historia-da-igreja, traducao]
+ingested: 2026-10-06
 ---
 
 Leland Ryken marca os 500 anos do Novo Testamento de William Tyndale (1526): a primeira tradução da Bíblia direto do grego para o inglês moderno. Só três cópias sobrevivem, e a British Library declarou que o livro é "o mais importante livro impresso em língua inglesa". Tyndale era filho de fazendeiro de Gloucestershire, autodidata na prática — Oxford e Cambridge pouco agregaram —, falava sete línguas com fluência e morreu mártir em 1536, estrangulado e queimado antes de terminar o Antigo Testamento.

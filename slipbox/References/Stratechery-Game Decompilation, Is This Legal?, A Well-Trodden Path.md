@@ -25,6 +25,6 @@ Daily Update em três movimentos: a onda de decompilação de jogos clássicos (
 ## Notas e conexoes
 
 - A tese "o risco não é a cópia do passado, é o novo supply infinito" é o mesmo padrão do debate de IA sobre texto e código: bibliotecas inteiras de conteúdo humano viram matéria-prima enquanto a fronteira de valor se move para distribuição e personalização.
-- Episódio do mesmo dia (Dithering, "Ben Gets Hacked") cobre a invasão do Mac de Thompson — nota irmã: [[resumo-Apple-and-a-Hackers-Future-Stratechery]] (a renomear para o formato SOURCE nesta rodada).
+- Episódio do mesmo dia (Dithering, "Ben Gets Hacked") cobre a invasão do Mac de Thompson — nota irmã: [[Stratechery-Apple and a Hacker's Future]].
 - Revisitar se um resumo público posterior cobrir os detalhes membros.
 - [[slipbox/References]]

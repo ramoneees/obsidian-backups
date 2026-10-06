@@ -31,7 +31,7 @@ Roundup diário: por que a barriga de aluguel não pode ser "redimida" como tecn
 
 ## Notas e conexoes
 
-- Artigo principal do mesmo dia: [[resumo-Ed-Sheeran-Proves-Trueman-Right-We-All-Live-in-Marxs-World]].
+- Artigo principal do mesmo dia: [[Tim Challies-Ed Sheeran Proves Trueman Right, We All Live in Marx's World Now]].
 - Meta-curiosidade: Challies removeu um link porque "falhou no meu teste de IA integrado" — ele filtra indicações usando IA antes de publicar.
 
 [[slipbox/References]]

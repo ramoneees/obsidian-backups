@@ -1,8 +1,12 @@
 ---
 title: "You'll Never Get Through Your List. That's the Point."
-source: https://www.asianefficiency.com/technology/never-get-through-your-list/
+source: Asian Efficiency
+url: https://www.asianefficiency.com/technology/never-get-through-your-list/
+author: Asian Efficiency
+category: Technology
 date: 2026-10-05
 tags: [produtividade, oliver-burkeman, filosofia]
+ingested: 2026-10-06
 ---
 
 O gancho é Oliver Burkeman assistindo à aurora boreal e tentando "aproveitar o momento" tão eficientemente que estragou o momento. Comparou as luzes a um screensaver de PC velho. Esse é o músculo da otimização que não desliga: você pega um momento de lazer e o espreme — e o espremer é o que destrói a coisa.

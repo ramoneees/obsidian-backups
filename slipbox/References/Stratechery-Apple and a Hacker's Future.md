@@ -1,8 +1,12 @@
 ---
 title: "Apple and a Hacker's Future"
-source: https://stratechery.com/2026/apple-and-a-hackers-future/
+source: Stratechery
+url: https://stratechery.com/2026/apple-and-a-hackers-future/
+author: Ben Thompson
+category: Articles
 date: 2026-10-05
 tags: [ia, agentes, apple, seguranca]
+ingested: 2026-10-05
 ---
 
 Ben Thompson teve o Mac Mini sempre ligado — que roda nada além de Claude e Codex — invadido via CVE-2026-65400: bug de state management no Screen Sharing do macOS, explorado por quem deixou a porta 5900 aberta na internet. Resultado: root comprometido e minerador de Monero plantado. Campanha automatizada, comentários em chinês, nada pessoal.
