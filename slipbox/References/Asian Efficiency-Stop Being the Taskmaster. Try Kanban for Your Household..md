@@ -1,8 +1,12 @@
 ---
 title: "Stop Being the Taskmaster. Try Kanban for Your Household."
-source: https://www.asianefficiency.com/productivity/try-kanban-for-household/
-date: 2026-10-07
+source: Asian Efficiency
+date: 2026-10-06
+url: https://www.asianefficiency.com/productivity/try-kanban-for-household/
+author: Thanh Pham
+category: Productivity
 tags: [produtividade, familia, kanban, wfh]
+ingested: 2026-10-06
 ---
 
 Thanh Pham (Asian Efficiency) parte de uma cena conhecida para quem trabalha de casa com crianças pequenas: porta fechada, sinal claro, filho sentado do lado mesmo assim. A premissa honesta é que sinais visuais quebram — e, quebrando, o ajuste é encurtar o bloco (10 minutos em vez de 45), não fingir que a casa é um escritório.

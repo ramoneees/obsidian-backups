@@ -1,8 +1,12 @@
 ---
 title: "How Did We Get the Westminster Confession of Faith?"
-source: https://learn.ligonier.org/articles/how-did-we-get-the-westminster-confession
-date: 2026-10-07
+source: Ligonier
+date: 2026-10-06
+url: https://learn.ligonier.org/articles/how-did-we-get-the-westminster-confession
+author: Stephen Spinnenweber
+category: Articles
 tags: [teologia, confissoes, historia-da-igreja, puritanos]
+ingested: 2026-10-06
 ---
 
 Stephen Spinnenweber (Ligonier) conta a história por trás da Confissão de Fé de Westminster — e a tese é que ela nasceu de um "projeto que saiu do escopo". A assembleia convocada pelo Parlamento inglês em 1643 (151 homens, Westminster Abbey) tinha como tarefa original apenas revisar os Trinta e Nove Artigos da Igreja da Inglaterra. A assinatura da Solemn League and Covenant com a Escócia presbiteriana mudou tudo: os Artigos foram postos de lado e a assembleia passou a redigir uma confissão nova, reformada de fato.
