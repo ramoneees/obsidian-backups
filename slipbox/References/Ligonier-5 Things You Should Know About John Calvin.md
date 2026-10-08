@@ -1,8 +1,12 @@
 ---
+source: "Ligonier"
 title: "5 Things You Should Know About John Calvin"
-source: https://learn.ligonier.org/articles/5-things-calvin
 date: 2026-10-08
+url: https://learn.ligonier.org/articles/5-things-calvin
+author: "William VanDoodewaard"
+category: "Articles"
 tags: [teologia, historia-da-igreja, calvinismo, providencia]
+ingested: 2026-10-08
 ---
 
 # 5 Things You Should Know About John Calvin
@@ -28,3 +32,8 @@ A síntese do artigo: através de alegrias e provações, Calvino aprendeu a bus
 > "There is no place under heaven I am more afraid of . . . I would rather submit to a hundred other deaths, than to that cross on which I would have to perish a thousand times every day." — Calvino, sobre voltar a Genebra
 
 > "Paul does not ascribe merely the beginning of our salvation to the grace of God . . . the whole progress of our salvation is nothing but the grace of God." — Calvino, meses após enterrar a esposa
+
+## Notas e conexões
+
+- [[Desiring God-The Marriage Miracle That Takes Time]] — a mesma escola da providência em perspectiva longa: 14 anos para resolver a Ceia, 50 anos de paciência conjugal; fidelidade no container, Deus no tempo.
+- [[Ligonier-How Did We Get the Westminster Confession of Faith]] — a era pós-Reforma que formou Genebra é a mesma que, uma geração depois, produziu a assembleia de Westminster.

@@ -1,8 +1,12 @@
 ---
+source: "Simon Willison"
 title: "Claude Haiku 5.5"
-source: https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/
 date: 2026-10-08
+url: https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/
+author: "Simon Willison"
+category: "llm-release"
 tags: [ia, llm, anthropic, precificacao]
+ingested: 2026-10-08
 ---
 
 # Claude Haiku 5.5
@@ -26,3 +30,9 @@ Leitura obrigatória para quem orquestra múltiplos modelos: a fronteira de pre�
 > "If your workloads fit in 100,000 tokens, Haiku is the same price as Luna and reports higher benchmark scores. Above 100,000 tokens, Luna looks like a much better deal."
 
 > "The API credits exactly match the cost of the subscription itself. This is really generous—it makes it much easier for subscribers to use the API."
+
+## Notas e conexões
+
+- [[Simon Willison-Quoting Ben Affleck]] — mesmo dia no blog: enquanto Affleck descreve a era CNN de VFX, Willison mede o preço por milhão de tokens da geração transformer.
+- [[Simon Willison-Introducing Mistral Large 4- Le chonk]] — a faixa de $0.10/$0.50 por milhão é o mesmo tabuleiro onde o Mistral posicionou o Large 4; a fronteira de 100k tokens é o novo eixo de roteamento.
+- Uso na casa: o cron roda em glm-4.7 exatamente por essa lógica de custo em tarefa curta — rever o roteamento (pesado→GLM, cron→barato) usando a fronteira de 100k como critério.

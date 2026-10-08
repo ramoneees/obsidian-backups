@@ -1,8 +1,12 @@
 ---
+source: "Asian Efficiency"
 title: "Automate the When. Change the What."
-source: https://www.asianefficiency.com/technology/automate-when-change-what/
 date: 2026-10-08
+url: https://www.asianefficiency.com/technology/automate-when-change-what/
+author: "Thanh Pham"
+category: "Technology"
 tags: [produtividade, automacao, habitos, ia]
+ingested: 2026-10-08
 ---
 
 # Automate the When. Change the What.
@@ -26,3 +30,10 @@ Mais dois hábitos de qualidade: Brooks's Setup (Stream Deck/Keyboard Maestro pa
 > "Structure the container. Let the contents move."
 
 > "A 30-item list is a great way to never start. Two questions fit in the time you actually have."
+
+## Notas e conexões
+
+- [[Asian Efficiency-Buffer Time Beats a Perfectly Scheduled Day]] — o buffer é exatamente "automatizar o quando": container fixo no fim do dia que absorve o conteúdo imprevisível.
+- [[Asian Efficiency-Why I Stay in a Small Apartment]] — mesma filosofia de restrição: menos decisões estruturais (espaço, agenda, ferramentas) é o que sobra para variar o conteúdo.
+- O "AI Calendar Audit" é o princípio da casa em forma de prompt: automatizar a partir de dados que já existem em sistemas externos (o calendário já registra a repetição), sem criar sistema novo para manter.
+- Candidato a automação única da semana: disparo de setup por modo de trabalho (estilo Brooks's Setup) — já existe lock de 1 OpenCode por diretório; falta o container que abre o conjunto.
