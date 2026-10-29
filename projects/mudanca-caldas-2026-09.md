@@ -37,6 +37,15 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 > - **Tinta: FINAL** ✅✅ — **Robbialac REP Semi-Acetinado, cor BN07 FREESIA** (coleção Brancos Natureza; **tintada**, NÃO cor pronta — Leroy descartado). Fonte: fotos dos 2 baldes 15L do Boss — etiquetas "064-REP SEMI ACETINADO / BN07 FRESIA / 0641990015, Setúbal 23/03/2022" + 2º balde (Sesimbra, FREESIA). Confere com medição pixel (branco suavemente quente ✓). **Onde comprar**: qualquer loja Robbialac (Super Colorizer, afia no ato) — Grande Lisboa: Pascoal de Melo 15A (21 269 8782) · Luciano Cordeiro 113D (21 355 3400) · Estr. Benfica 454-B (21 711 1204) · Sacavém · Parede; OU online loja.tintasrobbialac.pt p2046 cor BN07 FRÉSIA NATUREZA (1L ~23€, prazo de entrega incerto — só se pedido até 01-02/10). 1L chega para retoques. Pintar ANTES da desmontagem.
 > - TickTick: projeto congelado (decomissão pendente, 77 tarefas legadas com datas caducadas) — **plano vivo = este ficheiro + calendário + Apple Reminders**.
 
+> **📌 UPDATE 2026-10-29 (fonte: Boss)**
+> - **Escritura realizada + mudança concluída** (out/26) — família instalada em Caldas; trabalho agora 100% de casa (blocos cowork e natação do Martim removidos do calendário 29/10).
+> - ✅ **Seguro casa nova ativado**.
+> - ✅ **Contratos de fornecedores mudados — TODAS as facturas chegam por email** (luz, água, gás, internet, telemóvel).
+> - ✅ **Apartamento antigo pintado** (retoques Robbialac BN07 FREESIA); chaves deixadas com vizinho para os donos receberem visitas.
+> - ⏳ **PENDENTE: entrega formal das chaves + devolução da caução** (→ Reminders, alta).
+> - 🔍 **Boss a verificar: registo predial + caderneta predial em nome dos novos proprietários** (→ Reminders, média).
+> - Limpeza 29/10: 4 tarefas concluídas deletadas do TickTick (facturas/seguro/EDP/gás); 29 ainda abertas lá; 4 novas no Apple Reminders. Item "Firefly Casa Caldas" **OBSOLETO** (cutover Beancount desligou o Firefly).
+
 ## 📅 CALENDÁRIO OPERATIVO — HISTÓRICO (pré-escritura 23/09; substituído pelo UPDATE 2026-09-30)
 
 | Data | Foco |
