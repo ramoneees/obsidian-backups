@@ -44,6 +44,7 @@ Compra de apartamento em curso. Crédito aprovado. Fase atual: avaliação do im
 > - ✅ **Apartamento antigo pintado** (retoques Robbialac BN07 FREESIA); chaves deixadas com vizinho para os donos receberem visitas.
 > - ⏳ **PENDENTE: entrega formal das chaves + devolução da caução** (→ Reminders, alta).
 > - 🔍 **Boss a verificar: registo predial + caderneta predial em nome dos novos proprietários** (→ Reminders, média).
+> - 📄 **Cascata de documentos**: AIMA/TR morada **solicitada ✓** · Segurança Social **✓** · **IMT pendente** (carta de condução + DUA → Reminders). Finanças (morada fiscal) e SNS/USF sem confirmação ainda.
 > - Limpeza 29/10: 4 tarefas concluídas deletadas do TickTick (facturas/seguro/EDP/gás); 29 ainda abertas lá; 4 novas no Apple Reminders. Item "Firefly Casa Caldas" **OBSOLETO** (cutover Beancount desligou o Firefly).
 
 ## 📅 CALENDÁRIO OPERATIVO — HISTÓRICO (pré-escritura 23/09; substituído pelo UPDATE 2026-09-30)
