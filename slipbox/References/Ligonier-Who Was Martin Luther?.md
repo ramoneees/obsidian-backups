@@ -1,9 +1,13 @@
 ---
 title: "Who Was Martin Luther?"
-source: https://learn.ligonier.org/articles/who-was-martin-luther
+source: Ligonier
+url: https://learn.ligonier.org/articles/who-was-martin-luther
 date: 2026-10-30
 author: Gene Edward Veith
-tags: [teologia-reformada, historia-da-igreja, reforma, luter]
+category: Article
+tags: [teologia-reformada, historia-da-igreja, reforma, lutero]
+ingested: 2026-10-30
+blogwatcher_id: 1165
 ---
 
 # Who Was Martin Luther?
@@ -27,3 +31,11 @@ Leitura em véspera do Dia da Reforma (31/10): o caso Lutero é o estudo de caso
 > "Here I felt that I was altogether born again and had entered paradise itself through open gates."
 
 > "I did nothing. The Word did everything."
+
+## Notas e conexões
+
+- [[Ligonier-What Were the Ninety-Five Theses?]] — as teses que "viralizaram" via prensa
+- [[Ligonier-4 Implications of Martin Luther’s Theology]]
+- [[Tim Challies-Free Stuff Fridays (Ligonier Ministries) - October 30]] — ebook gratuito de Sproul sobre o mesmo Lutero, na mesma véspera
+- [[Ligonier-Today Only, Browse Our Reformation Sale]]
+- [[slipbox/References]]

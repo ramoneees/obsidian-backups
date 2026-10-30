@@ -1,9 +1,13 @@
 ---
-title: "Who Is God? 39% of UK Adults Aren't Sure"
-source: https://www.ligonier.org/posts/who-is-god-39-of-uk-adults-arent-sure
+title: "Who Is God? 39% of UK Adults Aren’t Sure"
+source: Ligonier
+url: https://www.ligonier.org/posts/who-is-god-39-of-uk-adults-arent-sure
 date: 2026-10-30
 author: Ligonier Ministries
+category: Post
 tags: [teologia, cultura, state-of-theology, secularizacao]
+ingested: 2026-10-30
+blogwatcher_id: 1166
 ---
 
 # Who Is God? 39% of UK Adults Aren't Sure
@@ -25,3 +29,7 @@ O texto em si é curto e institucional — o valor está nos números brutos, qu
 > "What we believe about God shapes our entire lives."
 
 > "39% of UK adults responded 'not sure' to the statement, 'There is one true God in three persons: God the Father, God the Son, and God the Holy Spirit.'"
+
+## Notas e conexões
+
+- [[slipbox/References]]
