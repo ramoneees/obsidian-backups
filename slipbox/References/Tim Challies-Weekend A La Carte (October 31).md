@@ -1,8 +1,12 @@
 ---
-title: "Weekend A La Carte (31/10): no contact, evangelismo em declínio, pânico de IA e mitos da Reforma"
-source: https://www.challies.com/a-la-carte/weekend-a-la-carte-october-31-2026/
+title: "Weekend A La Carte (October 31)"
+source: Tim Challies
 date: 2026-10-31
-tags: [teologia, reforma, evangelismo, cultura]
+url: "https://www.challies.com/a-la-carte/weekend-a-la-carte-october-31-2026/"
+author: "Tim Challies"
+category: A La Carte
+tags: [a-la-carte, roundup, challies, links, teologia, reforma]
+ingested: 2026-10-31
 ---
 
 Edição de fim de semana do roundup do Challies, caindo na véspera do Dia da Reforma. O item mais quente: Jessica Lee contra o movimento "no contact" (cortar pais e familiares "tóxicos") com a lente de Rute — somos imersos numa cultura de terapia que fala mais de autocuidado que de auto-sacrifício, e o primeiro impulso quando a relação aperta virou autopreservação, não presença fiel.
@@ -22,3 +26,10 @@ No cruzamento teologia x tecnologia, Darryl Dash responde ao doom-mongering de c
 > "We are steeped in a therapy culture that talks a lot more about self-care than self-sacrifice" — Jessica Lee
 
 > "Today, it takes 50. Evangelism efficacy, evangelism effectiveness, has definitely diminished." — Thom Rainer
+
+## Notas e conexões
+
+- [[Tim Challies-A La Carte (October 30)]] — a edição da véspera, com o mesmo tema Halloween ↔ Reforma (*When You Trick-or-Treat, Nod to Martin Luther*)
+- [[Ligonier-Who Was Martin Luther?]] — contraponto direto aos mitos do Dia da Reforma cobertos por R. Scott Clark
+- [[Simon Willison-My obituary for programming]] — o outro lado do debate sobre pânico de IA que o texto do Dash desarma
+- [[slipbox/References]]
