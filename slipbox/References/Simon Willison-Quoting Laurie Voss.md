@@ -25,6 +25,6 @@ Quote post da série do Simon: trecho de "We are all Product Engineers now", de 
 ## Notas e conexões
 
 - [[Simon Willison-Quoting Boris Cherny]] — mesma série de quotes
-- [[resumo-quoting-paul-ford]] — mesma série
+- [[Simon Willison-Quoting Paul Ford]] — mesma série
 - Fonte original: https://seldo.com/posts/we-are-all-product-engineers-now/
 - [[slipbox/References]]

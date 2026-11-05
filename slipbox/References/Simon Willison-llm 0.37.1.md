@@ -22,7 +22,7 @@ Release de correção de bugs do LLM — a CLI e biblioteca Python do Willison p
 
 ## Ideias principais
 
-- Patch release sem features novas — o conteúdo gordо do ciclo (modelos OpenAI novos, endpoint customizável, embeddings multimodais) ficou na [[resumo-llm-037]], lançada em 2/11.
+- Patch release sem features novas — o conteúdo gordo do ciclo (modelos OpenAI novos, endpoint customizável, embeddings multimodais) ficou na [[resumo-llm-037]], lançada em 2/11.
 - Ritmo de projeto maduro: minor gorda acumulando meses de trabalho, seguida de patch fino com fixes de contribuidores externos assistidos por IA.
 
 ## Notas e conexões

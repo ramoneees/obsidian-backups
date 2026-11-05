@@ -1,8 +1,13 @@
 ---
 title: "Quoting Paul Ford"
-source: https://simonwillison.net/2026/Sep/12/paul-ford/
+source: Simon Willison
 date: 2026-09-13
+url: https://simonwillison.net/2026/Sep/12/paul-ford/
+author: Simon Willison
+category: Quotation
 tags: [ia, engenharia-de-software, filosofia, trabalho]
+blogwatcher_id: 1242
+ingested: 2026-11-05
 ---
 
 Simon Willison destaca um trecho do artigo de Paul Ford no New York Times ("A.I. Was Supposed to Give Us New Killer Apps. What Happened?"). A frase central é uma das mais afiadas já escritas sobre o momento: **"A.I. can write very good software, but it also makes it easy to do someone else's job badly"** — IA escreve software muito bom, mas também torna fácil fazer mal o trabalho dos outros. É por isso que os projetos falham.
@@ -13,7 +18,7 @@ Ford admite que por um tempo pareceu que desenvolvedores estavam acabados — "c
 
 ## Por que importa
 
-- É o argumentoexternal da tese "qualidade em 1º lugar, gastar agora < manter depois": IA barateia escrever, não barateia manter. Código gerado sem dono com julgamento é dívida técnica à vista.
+- É o argumento externo da tese "qualidade em 1º lugar, gastar agora < manter depois": IA barateia escrever, não barateia manter. Código gerado sem dono com julgamento é dívida técnica à vista.
 - "Fazer mal o trabalho dos outros" descreve exatamente o risco de delegar cegamente a agentes: o agente executa o trabalho de engenheiro, PM e QA sem ter o ofício de nenhum. Review + dogfood QA depois de agentes não é cerimônia, é o trabalho.
 - "Everyone can code → many shouldn't" vale também para automação em geral: só automatiza quando dados já existem em sistemas externos — senão é fazer mal o trabalho de quem entende do domínio.
 
@@ -22,3 +27,8 @@ Ford admite que por um tempo pareceu que desenvolvedores estavam acabados — "c
 > "A.I. can write very good software, but it also makes it easy to do someone else's job badly, which is part of why all those projects fail."
 
 > "Now that everyone can code, it's become clearer why many shouldn't."
+
+## Notas e conexões
+
+- [[Simon Willison-Quoting Laurie Voss]] — mesma série de citações sobre IA e o ofício de software.
+- [[slipbox/References]]
