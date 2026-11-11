@@ -39,8 +39,10 @@ Ele executa figura melhor do que comando — autonomia dele, menos direção dos
 - **Sexta à noite** → conferir estoque de roupa limpa + encher saco de lavar (a lavanderia tem que rodar ANTES do domingo).
 
 ## Ganchos no sistema (já criados)
+- Dom 19:30 — briefing no iMessage: kits por dia + pijamas + o que puxar (script `~/.hermes/scripts/kits_martim.py`, cron `d66a0c7188af`). Zero decisão: só executar a mensagem.
 - Dom 20:00 — "Montar kits da semana — Martim" (Home, alerta na hora)
 - Seg–sex 8:45 — "Saída — Escola Martim" (Home, alerta 8:35)
+- Inventário de roupas: `Casa/Roupa Martim.md` — contar na sexta ao dobrar (5 min); abaixo do mínimo → repor
 
 ## Manutenção
 - Férias/feriados: pedir ao Jarvis para suspender/restaurar as séries.
