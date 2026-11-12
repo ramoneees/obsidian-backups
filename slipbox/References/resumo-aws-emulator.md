@@ -15,7 +15,7 @@ Para quem vive de infra local (OrbStack, k3s, arrays de containers), a pergunta 
 
 ## Por que importa
 
-- Devops puro: teste local contra AWS sem custo nem mocks artesanais — impacto direto em CI (GitHub Actions/Gitea) e no время de setup de projetos.
+- Devops puro: teste local contra AWS sem custo nem mocks artesanais — impacto direto em CI (GitHub Actions/Gitea) e no tempo de setup de projetos.
 - É um caso de estudo de agentic engineering em escala industrial: 30 mil commits em 3 semanas, com humanos orquestrando. Comparável ao que você roda com OpenCode/herdr, só que na AWS.
 - O post do Vogels/Swami sobre "o trabalho do engenheiro quando agentes escrevem o código" é leitura obrigatória pra quem delega coding a agentes — que é exatamente o seu fluxo.
 
